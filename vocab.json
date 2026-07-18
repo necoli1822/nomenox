@@ -1,0 +1,6002 @@
+[
+  {
+    "idx_orig": 0,
+    "pfam": "PF04055",
+    "name": "",
+    "count": 2390
+  },
+  {
+    "idx_orig": 1,
+    "pfam": "PF00005",
+    "name": "",
+    "count": 1844
+  },
+  {
+    "idx_orig": 2,
+    "pfam": "PF00009",
+    "name": "",
+    "count": 1598
+  },
+  {
+    "idx_orig": 3,
+    "pfam": "PF01926",
+    "name": "",
+    "count": 1560
+  },
+  {
+    "idx_orig": 5,
+    "pfam": "PF00587",
+    "name": "",
+    "count": 1361
+  },
+  {
+    "idx_orig": 6,
+    "pfam": "PF00006",
+    "name": "",
+    "count": 1269
+  },
+  {
+    "idx_orig": 4,
+    "pfam": "PF03144",
+    "name": "",
+    "count": 1264
+  },
+  {
+    "idx_orig": 8,
+    "pfam": "PF00117",
+    "name": "",
+    "count": 1242
+  },
+  {
+    "idx_orig": 7,
+    "pfam": "PF02874",
+    "name": "",
+    "count": 1212
+  },
+  {
+    "idx_orig": 10,
+    "pfam": "PF08245",
+    "name": "",
+    "count": 1157
+  },
+  {
+    "idx_orig": 11,
+    "pfam": "PF02875",
+    "name": "",
+    "count": 1110
+  },
+  {
+    "idx_orig": 9,
+    "pfam": "PF00696",
+    "name": "",
+    "count": 1089
+  },
+  {
+    "idx_orig": 16,
+    "pfam": "PF07973",
+    "name": "",
+    "count": 982
+  },
+  {
+    "idx_orig": 15,
+    "pfam": "PF00152",
+    "name": "",
+    "count": 962
+  },
+  {
+    "idx_orig": 12,
+    "pfam": "PF01336",
+    "name": "",
+    "count": 960
+  },
+  {
+    "idx_orig": 14,
+    "pfam": "PF03129",
+    "name": "",
+    "count": 921
+  },
+  {
+    "idx_orig": 17,
+    "pfam": "PF01138",
+    "name": "",
+    "count": 909
+  },
+  {
+    "idx_orig": 19,
+    "pfam": "PF03725",
+    "name": "",
+    "count": 862
+  },
+  {
+    "idx_orig": 20,
+    "pfam": "PF08264",
+    "name": "",
+    "count": 857
+  },
+  {
+    "idx_orig": 21,
+    "pfam": "PF00275",
+    "name": "",
+    "count": 846
+  },
+  {
+    "idx_orig": 13,
+    "pfam": "PF00156",
+    "name": "",
+    "count": 841
+  },
+  {
+    "idx_orig": 24,
+    "pfam": "PF00118",
+    "name": "",
+    "count": 812
+  },
+  {
+    "idx_orig": 25,
+    "pfam": "PF00919",
+    "name": "",
+    "count": 810
+  },
+  {
+    "idx_orig": 23,
+    "pfam": "PF00133",
+    "name": "",
+    "count": 808
+  },
+  {
+    "idx_orig": 18,
+    "pfam": "PF14520",
+    "name": "",
+    "count": 791
+  },
+  {
+    "idx_orig": 22,
+    "pfam": "PF01467",
+    "name": "",
+    "count": 736
+  },
+  {
+    "idx_orig": 28,
+    "pfam": "PF00749",
+    "name": "",
+    "count": 726
+  },
+  {
+    "idx_orig": 27,
+    "pfam": "PF00679",
+    "name": "",
+    "count": 706
+  },
+  {
+    "idx_orig": 41,
+    "pfam": "PF01225",
+    "name": "",
+    "count": 687
+  },
+  {
+    "idx_orig": 38,
+    "pfam": "PF03120",
+    "name": "",
+    "count": 685
+  },
+  {
+    "idx_orig": 39,
+    "pfam": "PF01653",
+    "name": "",
+    "count": 684
+  },
+  {
+    "idx_orig": 46,
+    "pfam": "PF19269",
+    "name": "",
+    "count": 673
+  },
+  {
+    "idx_orig": 55,
+    "pfam": "PF01715",
+    "name": "",
+    "count": 668
+  },
+  {
+    "idx_orig": 34,
+    "pfam": "PF00013",
+    "name": "",
+    "count": 666
+  },
+  {
+    "idx_orig": 51,
+    "pfam": "PF22745",
+    "name": "",
+    "count": 664
+  },
+  {
+    "idx_orig": 52,
+    "pfam": "PF00533",
+    "name": "",
+    "count": 664
+  },
+  {
+    "idx_orig": 26,
+    "pfam": "PF07724",
+    "name": "",
+    "count": 661
+  },
+  {
+    "idx_orig": 33,
+    "pfam": "PF01488",
+    "name": "",
+    "count": 653
+  },
+  {
+    "idx_orig": 56,
+    "pfam": "PF12826",
+    "name": "",
+    "count": 653
+  },
+  {
+    "idx_orig": 30,
+    "pfam": "PF01979",
+    "name": "",
+    "count": 650
+  },
+  {
+    "idx_orig": 42,
+    "pfam": "PF02769",
+    "name": "",
+    "count": 645
+  },
+  {
+    "idx_orig": 31,
+    "pfam": "PF00575",
+    "name": "",
+    "count": 644
+  },
+  {
+    "idx_orig": 40,
+    "pfam": "PF06827",
+    "name": "",
+    "count": 640
+  },
+  {
+    "idx_orig": 29,
+    "pfam": "PF00132",
+    "name": "",
+    "count": 638
+  },
+  {
+    "idx_orig": 67,
+    "pfam": "PF03054",
+    "name": "",
+    "count": 632
+  },
+  {
+    "idx_orig": 35,
+    "pfam": "PF22919",
+    "name": "",
+    "count": 631
+  },
+  {
+    "idx_orig": 47,
+    "pfam": "PF21090",
+    "name": "",
+    "count": 631
+  },
+  {
+    "idx_orig": 48,
+    "pfam": "PF01043",
+    "name": "",
+    "count": 630
+  },
+  {
+    "idx_orig": 49,
+    "pfam": "PF07517",
+    "name": "",
+    "count": 630
+  },
+  {
+    "idx_orig": 70,
+    "pfam": "PF04983",
+    "name": "",
+    "count": 626
+  },
+  {
+    "idx_orig": 53,
+    "pfam": "PF07516",
+    "name": "",
+    "count": 624
+  },
+  {
+    "idx_orig": 45,
+    "pfam": "PF00288",
+    "name": "",
+    "count": 613
+  },
+  {
+    "idx_orig": 80,
+    "pfam": "PF20259",
+    "name": "",
+    "count": 610
+  },
+  {
+    "idx_orig": 81,
+    "pfam": "PF20258",
+    "name": "",
+    "count": 609
+  },
+  {
+    "idx_orig": 57,
+    "pfam": "PF00586",
+    "name": "",
+    "count": 607
+  },
+  {
+    "idx_orig": 83,
+    "pfam": "PF04997",
+    "name": "",
+    "count": 601
+  },
+  {
+    "idx_orig": 62,
+    "pfam": "PF01018",
+    "name": "",
+    "count": 599
+  },
+  {
+    "idx_orig": 68,
+    "pfam": "PF03726",
+    "name": "",
+    "count": 598
+  },
+  {
+    "idx_orig": 43,
+    "pfam": "PF00977",
+    "name": "",
+    "count": 597
+  },
+  {
+    "idx_orig": 85,
+    "pfam": "PF00623",
+    "name": "",
+    "count": 596
+  },
+  {
+    "idx_orig": 86,
+    "pfam": "PF04998",
+    "name": "",
+    "count": 595
+  },
+  {
+    "idx_orig": 44,
+    "pfam": "PF00202",
+    "name": "",
+    "count": 594
+  },
+  {
+    "idx_orig": 32,
+    "pfam": "PF10431",
+    "name": "",
+    "count": 591
+  },
+  {
+    "idx_orig": 93,
+    "pfam": "PF05000",
+    "name": "",
+    "count": 591
+  },
+  {
+    "idx_orig": 61,
+    "pfam": "PF00763",
+    "name": "",
+    "count": 590
+  },
+  {
+    "idx_orig": 63,
+    "pfam": "PF02882",
+    "name": "",
+    "count": 590
+  },
+  {
+    "idx_orig": 71,
+    "pfam": "PF01351",
+    "name": "",
+    "count": 586
+  },
+  {
+    "idx_orig": 54,
+    "pfam": "PF00306",
+    "name": "",
+    "count": 583
+  },
+  {
+    "idx_orig": 76,
+    "pfam": "PF05698",
+    "name": "",
+    "count": 582
+  },
+  {
+    "idx_orig": 77,
+    "pfam": "PF05697",
+    "name": "",
+    "count": 582
+  },
+  {
+    "idx_orig": 79,
+    "pfam": "PF04101",
+    "name": "",
+    "count": 581
+  },
+  {
+    "idx_orig": 36,
+    "pfam": "PF02729",
+    "name": "",
+    "count": 580
+  },
+  {
+    "idx_orig": 50,
+    "pfam": "PF08544",
+    "name": "",
+    "count": 580
+  },
+  {
+    "idx_orig": 37,
+    "pfam": "PF00185",
+    "name": "",
+    "count": 579
+  },
+  {
+    "idx_orig": 69,
+    "pfam": "PF00464",
+    "name": "",
+    "count": 574
+  },
+  {
+    "idx_orig": 98,
+    "pfam": "PF03033",
+    "name": "",
+    "count": 566
+  },
+  {
+    "idx_orig": 58,
+    "pfam": "PF03143",
+    "name": "",
+    "count": 562
+  },
+  {
+    "idx_orig": 103,
+    "pfam": "PF03119",
+    "name": "",
+    "count": 562
+  },
+  {
+    "idx_orig": 60,
+    "pfam": "PF02540",
+    "name": "",
+    "count": 559
+  },
+  {
+    "idx_orig": 73,
+    "pfam": "PF02403",
+    "name": "",
+    "count": 558
+  },
+  {
+    "idx_orig": 107,
+    "pfam": "PF12804",
+    "name": "",
+    "count": 558
+  },
+  {
+    "idx_orig": 78,
+    "pfam": "PF00953",
+    "name": "",
+    "count": 554
+  },
+  {
+    "idx_orig": 102,
+    "pfam": "PF02938",
+    "name": "",
+    "count": 553
+  },
+  {
+    "idx_orig": 84,
+    "pfam": "PF01195",
+    "name": "",
+    "count": 548
+  },
+  {
+    "idx_orig": 75,
+    "pfam": "PF02142",
+    "name": "",
+    "count": 543
+  },
+  {
+    "idx_orig": 96,
+    "pfam": "PF00254",
+    "name": "",
+    "count": 543
+  },
+  {
+    "idx_orig": 64,
+    "pfam": "PF00113",
+    "name": "",
+    "count": 541
+  },
+  {
+    "idx_orig": 66,
+    "pfam": "PF03952",
+    "name": "",
+    "count": 540
+  },
+  {
+    "idx_orig": 90,
+    "pfam": "PF02878",
+    "name": "",
+    "count": 537
+  },
+  {
+    "idx_orig": 92,
+    "pfam": "PF02879",
+    "name": "",
+    "count": 536
+  },
+  {
+    "idx_orig": 59,
+    "pfam": "PF00155",
+    "name": "",
+    "count": 535
+  },
+  {
+    "idx_orig": 94,
+    "pfam": "PF02880",
+    "name": "",
+    "count": 535
+  },
+  {
+    "idx_orig": 74,
+    "pfam": "PF00004",
+    "name": "",
+    "count": 530
+  },
+  {
+    "idx_orig": 87,
+    "pfam": "PF05496",
+    "name": "",
+    "count": 530
+  },
+  {
+    "idx_orig": 88,
+    "pfam": "PF05491",
+    "name": "",
+    "count": 529
+  },
+  {
+    "idx_orig": 97,
+    "pfam": "PF00408",
+    "name": "",
+    "count": 529
+  },
+  {
+    "idx_orig": 89,
+    "pfam": "PF06421",
+    "name": "",
+    "count": 528
+  },
+  {
+    "idx_orig": 91,
+    "pfam": "PF17864",
+    "name": "",
+    "count": 528
+  },
+  {
+    "idx_orig": 122,
+    "pfam": "PF01411",
+    "name": "",
+    "count": 528
+  },
+  {
+    "idx_orig": 65,
+    "pfam": "PF00271",
+    "name": "",
+    "count": 523
+  },
+  {
+    "idx_orig": 72,
+    "pfam": "PF01546",
+    "name": "",
+    "count": 521
+  },
+  {
+    "idx_orig": 101,
+    "pfam": "PF00814",
+    "name": "",
+    "count": 515
+  },
+  {
+    "idx_orig": 82,
+    "pfam": "PF07687",
+    "name": "",
+    "count": 513
+  },
+  {
+    "idx_orig": 100,
+    "pfam": "PF01938",
+    "name": "",
+    "count": 513
+  },
+  {
+    "idx_orig": 128,
+    "pfam": "PF02272",
+    "name": "",
+    "count": 512
+  },
+  {
+    "idx_orig": 111,
+    "pfam": "PF00709",
+    "name": "",
+    "count": 508
+  },
+  {
+    "idx_orig": 116,
+    "pfam": "PF01406",
+    "name": "",
+    "count": 507
+  },
+  {
+    "idx_orig": 108,
+    "pfam": "PF01264",
+    "name": "",
+    "count": 500
+  },
+  {
+    "idx_orig": 124,
+    "pfam": "PF06418",
+    "name": "",
+    "count": 499
+  },
+  {
+    "idx_orig": 129,
+    "pfam": "PF02673",
+    "name": "",
+    "count": 496
+  },
+  {
+    "idx_orig": 110,
+    "pfam": "PF00398",
+    "name": "",
+    "count": 490
+  },
+  {
+    "idx_orig": 149,
+    "pfam": "PF10396",
+    "name": "",
+    "count": 490
+  },
+  {
+    "idx_orig": 150,
+    "pfam": "PF12631",
+    "name": "",
+    "count": 489
+  },
+  {
+    "idx_orig": 99,
+    "pfam": "PF00406",
+    "name": "",
+    "count": 486
+  },
+  {
+    "idx_orig": 104,
+    "pfam": "PF09334",
+    "name": "",
+    "count": 486
+  },
+  {
+    "idx_orig": 106,
+    "pfam": "PF02779",
+    "name": "",
+    "count": 486
+  },
+  {
+    "idx_orig": 137,
+    "pfam": "PF21016",
+    "name": "",
+    "count": 485
+  },
+  {
+    "idx_orig": 134,
+    "pfam": "PF00162",
+    "name": "",
+    "count": 478
+  },
+  {
+    "idx_orig": 143,
+    "pfam": "PF07478",
+    "name": "",
+    "count": 474
+  },
+  {
+    "idx_orig": 105,
+    "pfam": "PF00226",
+    "name": "",
+    "count": 466
+  },
+  {
+    "idx_orig": 139,
+    "pfam": "PF07991",
+    "name": "",
+    "count": 466
+  },
+  {
+    "idx_orig": 141,
+    "pfam": "PF01450",
+    "name": "",
+    "count": 464
+  },
+  {
+    "idx_orig": 112,
+    "pfam": "PF01000",
+    "name": "",
+    "count": 456
+  },
+  {
+    "idx_orig": 113,
+    "pfam": "PF03118",
+    "name": "",
+    "count": 456
+  },
+  {
+    "idx_orig": 144,
+    "pfam": "PF00682",
+    "name": "",
+    "count": 456
+  },
+  {
+    "idx_orig": 115,
+    "pfam": "PF01193",
+    "name": "",
+    "count": 455
+  },
+  {
+    "idx_orig": 119,
+    "pfam": "PF01556",
+    "name": "",
+    "count": 454
+  },
+  {
+    "idx_orig": 125,
+    "pfam": "PF00438",
+    "name": "",
+    "count": 453
+  },
+  {
+    "idx_orig": 126,
+    "pfam": "PF02772",
+    "name": "",
+    "count": 453
+  },
+  {
+    "idx_orig": 127,
+    "pfam": "PF02773",
+    "name": "",
+    "count": 453
+  },
+  {
+    "idx_orig": 147,
+    "pfam": "PF01416",
+    "name": "",
+    "count": 453
+  },
+  {
+    "idx_orig": 156,
+    "pfam": "PF01588",
+    "name": "",
+    "count": 451
+  },
+  {
+    "idx_orig": 159,
+    "pfam": "PF01820",
+    "name": "",
+    "count": 450
+  },
+  {
+    "idx_orig": 109,
+    "pfam": "PF00574",
+    "name": "",
+    "count": 448
+  },
+  {
+    "idx_orig": 114,
+    "pfam": "PF06689",
+    "name": "",
+    "count": 448
+  },
+  {
+    "idx_orig": 153,
+    "pfam": "PF02810",
+    "name": "",
+    "count": 448
+  },
+  {
+    "idx_orig": 136,
+    "pfam": "PF01409",
+    "name": "",
+    "count": 445
+  },
+  {
+    "idx_orig": 172,
+    "pfam": "PF00920",
+    "name": "",
+    "count": 445
+  },
+  {
+    "idx_orig": 175,
+    "pfam": "PF24877",
+    "name": "",
+    "count": 444
+  },
+  {
+    "idx_orig": 118,
+    "pfam": "PF00333",
+    "name": "",
+    "count": 443
+  },
+  {
+    "idx_orig": 120,
+    "pfam": "PF03719",
+    "name": "",
+    "count": 443
+  },
+  {
+    "idx_orig": 132,
+    "pfam": "PF00684",
+    "name": "",
+    "count": 441
+  },
+  {
+    "idx_orig": 123,
+    "pfam": "PF02151",
+    "name": "",
+    "count": 438
+  },
+  {
+    "idx_orig": 154,
+    "pfam": "PF02504",
+    "name": "",
+    "count": 438
+  },
+  {
+    "idx_orig": 164,
+    "pfam": "PF02569",
+    "name": "",
+    "count": 438
+  },
+  {
+    "idx_orig": 142,
+    "pfam": "PF02912",
+    "name": "",
+    "count": 437
+  },
+  {
+    "idx_orig": 157,
+    "pfam": "PF00764",
+    "name": "",
+    "count": 436
+  },
+  {
+    "idx_orig": 161,
+    "pfam": "PF20979",
+    "name": "",
+    "count": 435
+  },
+  {
+    "idx_orig": 140,
+    "pfam": "PF01210",
+    "name": "",
+    "count": 431
+  },
+  {
+    "idx_orig": 145,
+    "pfam": "PF07479",
+    "name": "",
+    "count": 429
+  },
+  {
+    "idx_orig": 160,
+    "pfam": "PF00330",
+    "name": "",
+    "count": 429
+  },
+  {
+    "idx_orig": 162,
+    "pfam": "PF10555",
+    "name": "",
+    "count": 429
+  },
+  {
+    "idx_orig": 155,
+    "pfam": "PF00342",
+    "name": "",
+    "count": 420
+  },
+  {
+    "idx_orig": 121,
+    "pfam": "PF00266",
+    "name": "",
+    "count": 418
+  },
+  {
+    "idx_orig": 131,
+    "pfam": "PF00334",
+    "name": "",
+    "count": 417
+  },
+  {
+    "idx_orig": 174,
+    "pfam": "PF02075",
+    "name": "",
+    "count": 417
+  },
+  {
+    "idx_orig": 138,
+    "pfam": "PF01058",
+    "name": "",
+    "count": 414
+  },
+  {
+    "idx_orig": 177,
+    "pfam": "PF01113",
+    "name": "",
+    "count": 412
+  },
+  {
+    "idx_orig": 183,
+    "pfam": "PF21948",
+    "name": "",
+    "count": 412
+  },
+  {
+    "idx_orig": 152,
+    "pfam": "PF06968",
+    "name": "",
+    "count": 410
+  },
+  {
+    "idx_orig": 178,
+    "pfam": "PF02780",
+    "name": "",
+    "count": 409
+  },
+  {
+    "idx_orig": 180,
+    "pfam": "PF05173",
+    "name": "",
+    "count": 408
+  },
+  {
+    "idx_orig": 158,
+    "pfam": "PF00958",
+    "name": "",
+    "count": 407
+  },
+  {
+    "idx_orig": 151,
+    "pfam": "PF00501",
+    "name": "",
+    "count": 406
+  },
+  {
+    "idx_orig": 148,
+    "pfam": "PF00579",
+    "name": "",
+    "count": 404
+  },
+  {
+    "idx_orig": 179,
+    "pfam": "PF02548",
+    "name": "",
+    "count": 404
+  },
+  {
+    "idx_orig": 220,
+    "pfam": "PF01565",
+    "name": "",
+    "count": 404
+  },
+  {
+    "idx_orig": 186,
+    "pfam": "PF01761",
+    "name": "",
+    "count": 403
+  },
+  {
+    "idx_orig": 187,
+    "pfam": "PF24621",
+    "name": "",
+    "count": 403
+  },
+  {
+    "idx_orig": 168,
+    "pfam": "PF00121",
+    "name": "",
+    "count": 400
+  },
+  {
+    "idx_orig": 199,
+    "pfam": "PF13292",
+    "name": "",
+    "count": 398
+  },
+  {
+    "idx_orig": 182,
+    "pfam": "PF01676",
+    "name": "",
+    "count": 396
+  },
+  {
+    "idx_orig": 166,
+    "pfam": "PF00701",
+    "name": "",
+    "count": 391
+  },
+  {
+    "idx_orig": 170,
+    "pfam": "PF01728",
+    "name": "",
+    "count": 390
+  },
+  {
+    "idx_orig": 190,
+    "pfam": "PF12838",
+    "name": "",
+    "count": 390
+  },
+  {
+    "idx_orig": 198,
+    "pfam": "PF05201",
+    "name": "",
+    "count": 390
+  },
+  {
+    "idx_orig": 240,
+    "pfam": "PF02873",
+    "name": "",
+    "count": 388
+  },
+  {
+    "idx_orig": 209,
+    "pfam": "PF01149",
+    "name": "",
+    "count": 387
+  },
+  {
+    "idx_orig": 192,
+    "pfam": "PF02580",
+    "name": "",
+    "count": 386
+  },
+  {
+    "idx_orig": 210,
+    "pfam": "PF06831",
+    "name": "",
+    "count": 386
+  },
+  {
+    "idx_orig": 216,
+    "pfam": "PF02660",
+    "name": "",
+    "count": 385
+  },
+  {
+    "idx_orig": 169,
+    "pfam": "PF00227",
+    "name": "",
+    "count": 384
+  },
+  {
+    "idx_orig": 146,
+    "pfam": "PF00430",
+    "name": "",
+    "count": 382
+  },
+  {
+    "idx_orig": 117,
+    "pfam": "PF07650",
+    "name": "",
+    "count": 381
+  },
+  {
+    "idx_orig": 135,
+    "pfam": "PF00171",
+    "name": "",
+    "count": 381
+  },
+  {
+    "idx_orig": 200,
+    "pfam": "PF00483",
+    "name": "",
+    "count": 380
+  },
+  {
+    "idx_orig": 227,
+    "pfam": "PF20143",
+    "name": "",
+    "count": 377
+  },
+  {
+    "idx_orig": 255,
+    "pfam": "PF01975",
+    "name": "",
+    "count": 376
+  },
+  {
+    "idx_orig": 235,
+    "pfam": "PF09190",
+    "name": "",
+    "count": 373
+  },
+  {
+    "idx_orig": 176,
+    "pfam": "PF01966",
+    "name": "",
+    "count": 372
+  },
+  {
+    "idx_orig": 184,
+    "pfam": "PF00549",
+    "name": "",
+    "count": 372
+  },
+  {
+    "idx_orig": 221,
+    "pfam": "PF00745",
+    "name": "",
+    "count": 372
+  },
+  {
+    "idx_orig": 171,
+    "pfam": "PF00308",
+    "name": "",
+    "count": 371
+  },
+  {
+    "idx_orig": 226,
+    "pfam": "PF01208",
+    "name": "",
+    "count": 370
+  },
+  {
+    "idx_orig": 197,
+    "pfam": "PF02824",
+    "name": "",
+    "count": 369
+  },
+  {
+    "idx_orig": 274,
+    "pfam": "PF02670",
+    "name": "",
+    "count": 368
+  },
+  {
+    "idx_orig": 276,
+    "pfam": "PF08436",
+    "name": "",
+    "count": 368
+  },
+  {
+    "idx_orig": 277,
+    "pfam": "PF13288",
+    "name": "",
+    "count": 368
+  },
+  {
+    "idx_orig": 167,
+    "pfam": "PF02782",
+    "name": "",
+    "count": 367
+  },
+  {
+    "idx_orig": 194,
+    "pfam": "PF02542",
+    "name": "",
+    "count": 367
+  },
+  {
+    "idx_orig": 217,
+    "pfam": "PF08299",
+    "name": "",
+    "count": 365
+  },
+  {
+    "idx_orig": 232,
+    "pfam": "PF06508",
+    "name": "",
+    "count": 365
+  },
+  {
+    "idx_orig": 214,
+    "pfam": "PF00561",
+    "name": "",
+    "count": 360
+  },
+  {
+    "idx_orig": 252,
+    "pfam": "PF01513",
+    "name": "",
+    "count": 360
+  },
+  {
+    "idx_orig": 224,
+    "pfam": "PF14622",
+    "name": "",
+    "count": 357
+  },
+  {
+    "idx_orig": 193,
+    "pfam": "PF00370",
+    "name": "",
+    "count": 356
+  },
+  {
+    "idx_orig": 242,
+    "pfam": "PF08501",
+    "name": "",
+    "count": 356
+  },
+  {
+    "idx_orig": 208,
+    "pfam": "PF01134",
+    "name": "",
+    "count": 355
+  },
+  {
+    "idx_orig": 225,
+    "pfam": "PF00035",
+    "name": "",
+    "count": 355
+  },
+  {
+    "idx_orig": 95,
+    "pfam": "PF00072",
+    "name": "",
+    "count": 354
+  },
+  {
+    "idx_orig": 215,
+    "pfam": "PF08442",
+    "name": "",
+    "count": 354
+  },
+  {
+    "idx_orig": 247,
+    "pfam": "PF01118",
+    "name": "",
+    "count": 353
+  },
+  {
+    "idx_orig": 261,
+    "pfam": "PF02666",
+    "name": "",
+    "count": 352
+  },
+  {
+    "idx_orig": 228,
+    "pfam": "PF01180",
+    "name": "",
+    "count": 347
+  },
+  {
+    "idx_orig": 203,
+    "pfam": "PF04563",
+    "name": "",
+    "count": 345
+  },
+  {
+    "idx_orig": 204,
+    "pfam": "PF04565",
+    "name": "",
+    "count": 344
+  },
+  {
+    "idx_orig": 205,
+    "pfam": "PF00562",
+    "name": "",
+    "count": 343
+  },
+  {
+    "idx_orig": 206,
+    "pfam": "PF04560",
+    "name": "",
+    "count": 343
+  },
+  {
+    "idx_orig": 207,
+    "pfam": "PF10385",
+    "name": "",
+    "count": 342
+  },
+  {
+    "idx_orig": 310,
+    "pfam": "PF01964",
+    "name": "",
+    "count": 342
+  },
+  {
+    "idx_orig": 133,
+    "pfam": "PF07977",
+    "name": "",
+    "count": 341
+  },
+  {
+    "idx_orig": 265,
+    "pfam": "PF00361",
+    "name": "",
+    "count": 341
+  },
+  {
+    "idx_orig": 189,
+    "pfam": "PF01795",
+    "name": "",
+    "count": 340
+  },
+  {
+    "idx_orig": 213,
+    "pfam": "PF04561",
+    "name": "",
+    "count": 337
+  },
+  {
+    "idx_orig": 236,
+    "pfam": "PF01171",
+    "name": "",
+    "count": 336
+  },
+  {
+    "idx_orig": 254,
+    "pfam": "PF01808",
+    "name": "",
+    "count": 335
+  },
+  {
+    "idx_orig": 259,
+    "pfam": "PF00923",
+    "name": "",
+    "count": 335
+  },
+  {
+    "idx_orig": 279,
+    "pfam": "PF02401",
+    "name": "",
+    "count": 335
+  },
+  {
+    "idx_orig": 234,
+    "pfam": "PF00883",
+    "name": "",
+    "count": 330
+  },
+  {
+    "idx_orig": 262,
+    "pfam": "PF01039",
+    "name": "",
+    "count": 330
+  },
+  {
+    "idx_orig": 275,
+    "pfam": "PF04551",
+    "name": "",
+    "count": 330
+  },
+  {
+    "idx_orig": 278,
+    "pfam": "PF26540",
+    "name": "",
+    "count": 330
+  },
+  {
+    "idx_orig": 282,
+    "pfam": "PF00146",
+    "name": "",
+    "count": 329
+  },
+  {
+    "idx_orig": 246,
+    "pfam": "PF13193",
+    "name": "",
+    "count": 323
+  },
+  {
+    "idx_orig": 253,
+    "pfam": "PF01702",
+    "name": "",
+    "count": 322
+  },
+  {
+    "idx_orig": 248,
+    "pfam": "PF03255",
+    "name": "",
+    "count": 321
+  },
+  {
+    "idx_orig": 233,
+    "pfam": "PF00215",
+    "name": "",
+    "count": 320
+  },
+  {
+    "idx_orig": 258,
+    "pfam": "PF00702",
+    "name": "",
+    "count": 319
+  },
+  {
+    "idx_orig": 325,
+    "pfam": "PF05690",
+    "name": "",
+    "count": 319
+  },
+  {
+    "idx_orig": 181,
+    "pfam": "PF22042",
+    "name": "",
+    "count": 318
+  },
+  {
+    "idx_orig": 218,
+    "pfam": "PF00164",
+    "name": "",
+    "count": 315
+  },
+  {
+    "idx_orig": 239,
+    "pfam": "PF00717",
+    "name": "",
+    "count": 315
+  },
+  {
+    "idx_orig": 293,
+    "pfam": "PF18317",
+    "name": "",
+    "count": 314
+  },
+  {
+    "idx_orig": 323,
+    "pfam": "PF18693",
+    "name": "",
+    "count": 313
+  },
+  {
+    "idx_orig": 191,
+    "pfam": "PF01040",
+    "name": "",
+    "count": 312
+  },
+  {
+    "idx_orig": 223,
+    "pfam": "PF01479",
+    "name": "",
+    "count": 312
+  },
+  {
+    "idx_orig": 301,
+    "pfam": "PF01678",
+    "name": "",
+    "count": 312
+  },
+  {
+    "idx_orig": 256,
+    "pfam": "PF01726",
+    "name": "",
+    "count": 311
+  },
+  {
+    "idx_orig": 286,
+    "pfam": "PF01379",
+    "name": "",
+    "count": 311
+  },
+  {
+    "idx_orig": 290,
+    "pfam": "PF08541",
+    "name": "",
+    "count": 311
+  },
+  {
+    "idx_orig": 291,
+    "pfam": "PF08545",
+    "name": "",
+    "count": 311
+  },
+  {
+    "idx_orig": 292,
+    "pfam": "PF14489",
+    "name": "",
+    "count": 311
+  },
+  {
+    "idx_orig": 250,
+    "pfam": "PF05958",
+    "name": "",
+    "count": 308
+  },
+  {
+    "idx_orig": 288,
+    "pfam": "PF03900",
+    "name": "",
+    "count": 308
+  },
+  {
+    "idx_orig": 165,
+    "pfam": "PF00550",
+    "name": "",
+    "count": 307
+  },
+  {
+    "idx_orig": 257,
+    "pfam": "PF05191",
+    "name": "",
+    "count": 306
+  },
+  {
+    "idx_orig": 346,
+    "pfam": "PF21799",
+    "name": "",
+    "count": 304
+  },
+  {
+    "idx_orig": 343,
+    "pfam": "PF03309",
+    "name": "",
+    "count": 302
+  },
+  {
+    "idx_orig": 188,
+    "pfam": "PF07992",
+    "name": "",
+    "count": 300
+  },
+  {
+    "idx_orig": 202,
+    "pfam": "PF01330",
+    "name": "",
+    "count": 299
+  },
+  {
+    "idx_orig": 211,
+    "pfam": "PF00012",
+    "name": "",
+    "count": 297
+  },
+  {
+    "idx_orig": 320,
+    "pfam": "PF17757",
+    "name": "",
+    "count": 297
+  },
+  {
+    "idx_orig": 334,
+    "pfam": "PF00128",
+    "name": "",
+    "count": 297
+  },
+  {
+    "idx_orig": 309,
+    "pfam": "PF02789",
+    "name": "",
+    "count": 295
+  },
+  {
+    "idx_orig": 289,
+    "pfam": "PF01252",
+    "name": "",
+    "count": 294
+  },
+  {
+    "idx_orig": 185,
+    "pfam": "PF00573",
+    "name": "",
+    "count": 291
+  },
+  {
+    "idx_orig": 305,
+    "pfam": "PF11638",
+    "name": "",
+    "count": 290
+  },
+  {
+    "idx_orig": 163,
+    "pfam": "PF02518",
+    "name": "",
+    "count": 289
+  },
+  {
+    "idx_orig": 230,
+    "pfam": "PF00591",
+    "name": "",
+    "count": 289
+  },
+  {
+    "idx_orig": 316,
+    "pfam": "PF02926",
+    "name": "",
+    "count": 288
+  },
+  {
+    "idx_orig": 322,
+    "pfam": "PF02525",
+    "name": "",
+    "count": 286
+  },
+  {
+    "idx_orig": 336,
+    "pfam": "PF04851",
+    "name": "",
+    "count": 285
+  },
+  {
+    "idx_orig": 313,
+    "pfam": "PF00303",
+    "name": "",
+    "count": 284
+  },
+  {
+    "idx_orig": 222,
+    "pfam": "PF00300",
+    "name": "",
+    "count": 283
+  },
+  {
+    "idx_orig": 241,
+    "pfam": "PF02885",
+    "name": "",
+    "count": 283
+  },
+  {
+    "idx_orig": 302,
+    "pfam": "PF02261",
+    "name": "",
+    "count": 283
+  },
+  {
+    "idx_orig": 375,
+    "pfam": "PF22698",
+    "name": "",
+    "count": 282
+  },
+  {
+    "idx_orig": 251,
+    "pfam": "PF14681",
+    "name": "",
+    "count": 280
+  },
+  {
+    "idx_orig": 327,
+    "pfam": "PF08502",
+    "name": "",
+    "count": 280
+  },
+  {
+    "idx_orig": 356,
+    "pfam": "PF23493",
+    "name": "",
+    "count": 280
+  },
+  {
+    "idx_orig": 231,
+    "pfam": "PF07499",
+    "name": "",
+    "count": 279
+  },
+  {
+    "idx_orig": 337,
+    "pfam": "PF00871",
+    "name": "",
+    "count": 279
+  },
+  {
+    "idx_orig": 351,
+    "pfam": "PF02347",
+    "name": "",
+    "count": 279
+  },
+  {
+    "idx_orig": 354,
+    "pfam": "PF00762",
+    "name": "",
+    "count": 279
+  },
+  {
+    "idx_orig": 330,
+    "pfam": "PF01168",
+    "name": "",
+    "count": 277
+  },
+  {
+    "idx_orig": 326,
+    "pfam": "PF06026",
+    "name": "",
+    "count": 276
+  },
+  {
+    "idx_orig": 349,
+    "pfam": "PF12344",
+    "name": "",
+    "count": 276
+  },
+  {
+    "idx_orig": 350,
+    "pfam": "PF27431",
+    "name": "",
+    "count": 276
+  },
+  {
+    "idx_orig": 249,
+    "pfam": "PF00420",
+    "name": "",
+    "count": 275
+  },
+  {
+    "idx_orig": 295,
+    "pfam": "PF14602",
+    "name": "",
+    "count": 275
+  },
+  {
+    "idx_orig": 342,
+    "pfam": "PF00842",
+    "name": "",
+    "count": 271
+  },
+  {
+    "idx_orig": 345,
+    "pfam": "PF02545",
+    "name": "",
+    "count": 269
+  },
+  {
+    "idx_orig": 267,
+    "pfam": "PF00551",
+    "name": "",
+    "count": 268
+  },
+  {
+    "idx_orig": 383,
+    "pfam": "PF19303",
+    "name": "",
+    "count": 268
+  },
+  {
+    "idx_orig": 317,
+    "pfam": "PF27439",
+    "name": "",
+    "count": 267
+  },
+  {
+    "idx_orig": 398,
+    "pfam": "PF21478",
+    "name": "",
+    "count": 267
+  },
+  {
+    "idx_orig": 264,
+    "pfam": "PF00213",
+    "name": "",
+    "count": 266
+  },
+  {
+    "idx_orig": 280,
+    "pfam": "PF01202",
+    "name": "",
+    "count": 266
+  },
+  {
+    "idx_orig": 285,
+    "pfam": "PF02911",
+    "name": "",
+    "count": 266
+  },
+  {
+    "idx_orig": 391,
+    "pfam": "PF01743",
+    "name": "",
+    "count": 265
+  },
+  {
+    "idx_orig": 381,
+    "pfam": "PF02776",
+    "name": "",
+    "count": 262
+  },
+  {
+    "idx_orig": 402,
+    "pfam": "PF12627",
+    "name": "",
+    "count": 261
+  },
+  {
+    "idx_orig": 243,
+    "pfam": "PF01648",
+    "name": "",
+    "count": 260
+  },
+  {
+    "idx_orig": 364,
+    "pfam": "PF01243",
+    "name": "",
+    "count": 259
+  },
+  {
+    "idx_orig": 201,
+    "pfam": "PF00829",
+    "name": "",
+    "count": 258
+  },
+  {
+    "idx_orig": 341,
+    "pfam": "PF00346",
+    "name": "",
+    "count": 258
+  },
+  {
+    "idx_orig": 365,
+    "pfam": "PF00316",
+    "name": "",
+    "count": 258
+  },
+  {
+    "idx_orig": 366,
+    "pfam": "PF18913",
+    "name": "",
+    "count": 258
+  },
+  {
+    "idx_orig": 273,
+    "pfam": "PF01048",
+    "name": "",
+    "count": 257
+  },
+  {
+    "idx_orig": 421,
+    "pfam": "PF00141",
+    "name": "",
+    "count": 256
+  },
+  {
+    "idx_orig": 304,
+    "pfam": "PF01266",
+    "name": "",
+    "count": 255
+  },
+  {
+    "idx_orig": 374,
+    "pfam": "PF10590",
+    "name": "",
+    "count": 255
+  },
+  {
+    "idx_orig": 173,
+    "pfam": "PF01783",
+    "name": "",
+    "count": 254
+  },
+  {
+    "idx_orig": 314,
+    "pfam": "PF00154",
+    "name": "",
+    "count": 254
+  },
+  {
+    "idx_orig": 392,
+    "pfam": "PF02922",
+    "name": "",
+    "count": 254
+  },
+  {
+    "idx_orig": 422,
+    "pfam": "PF01502",
+    "name": "",
+    "count": 254
+  },
+  {
+    "idx_orig": 423,
+    "pfam": "PF02581",
+    "name": "",
+    "count": 249
+  },
+  {
+    "idx_orig": 338,
+    "pfam": "PF01472",
+    "name": "",
+    "count": 246
+  },
+  {
+    "idx_orig": 244,
+    "pfam": "PF01782",
+    "name": "",
+    "count": 245
+  },
+  {
+    "idx_orig": 390,
+    "pfam": "PF22617",
+    "name": "",
+    "count": 245
+  },
+  {
+    "idx_orig": 263,
+    "pfam": "PF02576",
+    "name": "",
+    "count": 244
+  },
+  {
+    "idx_orig": 433,
+    "pfam": "PF03588",
+    "name": "",
+    "count": 244
+  },
+  {
+    "idx_orig": 270,
+    "pfam": "PF02537",
+    "name": "",
+    "count": 243
+  },
+  {
+    "idx_orig": 299,
+    "pfam": "PF00885",
+    "name": "",
+    "count": 243
+  },
+  {
+    "idx_orig": 435,
+    "pfam": "PF00180",
+    "name": "",
+    "count": 243
+  },
+  {
+    "idx_orig": 212,
+    "pfam": "PF03477",
+    "name": "",
+    "count": 242
+  },
+  {
+    "idx_orig": 360,
+    "pfam": "PF22421",
+    "name": "",
+    "count": 242
+  },
+  {
+    "idx_orig": 245,
+    "pfam": "PF00886",
+    "name": "",
+    "count": 241
+  },
+  {
+    "idx_orig": 335,
+    "pfam": "PF22769",
+    "name": "",
+    "count": 241
+  },
+  {
+    "idx_orig": 429,
+    "pfam": "PF02775",
+    "name": "",
+    "count": 239
+  },
+  {
+    "idx_orig": 195,
+    "pfam": "PF00293",
+    "name": "",
+    "count": 238
+  },
+  {
+    "idx_orig": 294,
+    "pfam": "PF05746",
+    "name": "",
+    "count": 238
+  },
+  {
+    "idx_orig": 332,
+    "pfam": "PF21096",
+    "name": "",
+    "count": 238
+  },
+  {
+    "idx_orig": 403,
+    "pfam": "PF01220",
+    "name": "",
+    "count": 238
+  },
+  {
+    "idx_orig": 414,
+    "pfam": "PF08335",
+    "name": "",
+    "count": 236
+  },
+  {
+    "idx_orig": 454,
+    "pfam": "PF02110",
+    "name": "",
+    "count": 236
+  },
+  {
+    "idx_orig": 458,
+    "pfam": "PF13667",
+    "name": "",
+    "count": 236
+  },
+  {
+    "idx_orig": 340,
+    "pfam": "PF01261",
+    "name": "",
+    "count": 235
+  },
+  {
+    "idx_orig": 401,
+    "pfam": "PF00075",
+    "name": "",
+    "count": 235
+  },
+  {
+    "idx_orig": 373,
+    "pfam": "PF02096",
+    "name": "",
+    "count": 234
+  },
+  {
+    "idx_orig": 272,
+    "pfam": "PF00137",
+    "name": "",
+    "count": 233
+  },
+  {
+    "idx_orig": 344,
+    "pfam": "PF01425",
+    "name": "",
+    "count": 233
+  },
+  {
+    "idx_orig": 495,
+    "pfam": "PF12705",
+    "name": "",
+    "count": 233
+  },
+  {
+    "idx_orig": 526,
+    "pfam": "PF02696",
+    "name": "",
+    "count": 233
+  },
+  {
+    "idx_orig": 229,
+    "pfam": "PF22811",
+    "name": "",
+    "count": 231
+  },
+  {
+    "idx_orig": 386,
+    "pfam": "PF00793",
+    "name": "",
+    "count": 231
+  },
+  {
+    "idx_orig": 405,
+    "pfam": "PF00488",
+    "name": "",
+    "count": 231
+  },
+  {
+    "idx_orig": 238,
+    "pfam": "PF01029",
+    "name": "",
+    "count": 229
+  },
+  {
+    "idx_orig": 297,
+    "pfam": "PF00056",
+    "name": "",
+    "count": 229
+  },
+  {
+    "idx_orig": 455,
+    "pfam": "PF18072",
+    "name": "",
+    "count": 228
+  },
+  {
+    "idx_orig": 457,
+    "pfam": "PF02806",
+    "name": "",
+    "count": 228
+  },
+  {
+    "idx_orig": 477,
+    "pfam": "PF17759",
+    "name": "",
+    "count": 228
+  },
+  {
+    "idx_orig": 268,
+    "pfam": "PF01281",
+    "name": "",
+    "count": 227
+  },
+  {
+    "idx_orig": 269,
+    "pfam": "PF03948",
+    "name": "",
+    "count": 227
+  },
+  {
+    "idx_orig": 355,
+    "pfam": "PF01791",
+    "name": "",
+    "count": 227
+  },
+  {
+    "idx_orig": 303,
+    "pfam": "PF02866",
+    "name": "",
+    "count": 226
+  },
+  {
+    "idx_orig": 481,
+    "pfam": "PF03484",
+    "name": "",
+    "count": 226
+  },
+  {
+    "idx_orig": 331,
+    "pfam": "PF02224",
+    "name": "",
+    "count": 225
+  },
+  {
+    "idx_orig": 378,
+    "pfam": "PF00163",
+    "name": "",
+    "count": 225
+  },
+  {
+    "idx_orig": 410,
+    "pfam": "PF14492",
+    "name": "",
+    "count": 225
+  },
+  {
+    "idx_orig": 448,
+    "pfam": "PF25087",
+    "name": "",
+    "count": 225
+  },
+  {
+    "idx_orig": 266,
+    "pfam": "PF02130",
+    "name": "",
+    "count": 224
+  },
+  {
+    "idx_orig": 260,
+    "pfam": "PF01649",
+    "name": "",
+    "count": 222
+  },
+  {
+    "idx_orig": 436,
+    "pfam": "PF17848",
+    "name": "",
+    "count": 222
+  },
+  {
+    "idx_orig": 359,
+    "pfam": "PF02390",
+    "name": "",
+    "count": 221
+  },
+  {
+    "idx_orig": 196,
+    "pfam": "PF00444",
+    "name": "",
+    "count": 220
+  },
+  {
+    "idx_orig": 219,
+    "pfam": "PF00471",
+    "name": "",
+    "count": 219
+  },
+  {
+    "idx_orig": 510,
+    "pfam": "PF03740",
+    "name": "",
+    "count": 219
+  },
+  {
+    "idx_orig": 380,
+    "pfam": "PF01507",
+    "name": "",
+    "count": 217
+  },
+  {
+    "idx_orig": 420,
+    "pfam": "PF03331",
+    "name": "",
+    "count": 217
+  },
+  {
+    "idx_orig": 237,
+    "pfam": "PF00830",
+    "name": "",
+    "count": 216
+  },
+  {
+    "idx_orig": 307,
+    "pfam": "PF00472",
+    "name": "",
+    "count": 215
+  },
+  {
+    "idx_orig": 379,
+    "pfam": "PF01227",
+    "name": "",
+    "count": 215
+  },
+  {
+    "idx_orig": 463,
+    "pfam": "PF03100",
+    "name": "",
+    "count": 215
+  },
+  {
+    "idx_orig": 499,
+    "pfam": "PF03702",
+    "name": "",
+    "count": 215
+  },
+  {
+    "idx_orig": 537,
+    "pfam": "PF01725",
+    "name": "",
+    "count": 215
+  },
+  {
+    "idx_orig": 312,
+    "pfam": "PF03462",
+    "name": "",
+    "count": 213
+  },
+  {
+    "idx_orig": 329,
+    "pfam": "PF01196",
+    "name": "",
+    "count": 213
+  },
+  {
+    "idx_orig": 523,
+    "pfam": "PF06415",
+    "name": "",
+    "count": 213
+  },
+  {
+    "idx_orig": 315,
+    "pfam": "PF16320",
+    "name": "",
+    "count": 212
+  },
+  {
+    "idx_orig": 424,
+    "pfam": "PF04073",
+    "name": "",
+    "count": 212
+  },
+  {
+    "idx_orig": 321,
+    "pfam": "PF01765",
+    "name": "",
+    "count": 210
+  },
+  {
+    "idx_orig": 352,
+    "pfam": "PF16881",
+    "name": "",
+    "count": 210
+  },
+  {
+    "idx_orig": 491,
+    "pfam": "PF01121",
+    "name": "",
+    "count": 210
+  },
+  {
+    "idx_orig": 516,
+    "pfam": "PF03483",
+    "name": "",
+    "count": 210
+  },
+  {
+    "idx_orig": 318,
+    "pfam": "PF00542",
+    "name": "",
+    "count": 209
+  },
+  {
+    "idx_orig": 443,
+    "pfam": "PF01370",
+    "name": "",
+    "count": 209
+  },
+  {
+    "idx_orig": 515,
+    "pfam": "PF03147",
+    "name": "",
+    "count": 209
+  },
+  {
+    "idx_orig": 519,
+    "pfam": "PF09269",
+    "name": "",
+    "count": 209
+  },
+  {
+    "idx_orig": 450,
+    "pfam": "PF00294",
+    "name": "",
+    "count": 208
+  },
+  {
+    "idx_orig": 480,
+    "pfam": "PF03193",
+    "name": "",
+    "count": 208
+  },
+  {
+    "idx_orig": 283,
+    "pfam": "PF00861",
+    "name": "",
+    "count": 207
+  },
+  {
+    "idx_orig": 339,
+    "pfam": "PF00237",
+    "name": "",
+    "count": 207
+  },
+  {
+    "idx_orig": 388,
+    "pfam": "PF02686",
+    "name": "",
+    "count": 206
+  },
+  {
+    "idx_orig": 271,
+    "pfam": "PF00253",
+    "name": "",
+    "count": 205
+  },
+  {
+    "idx_orig": 412,
+    "pfam": "PF02826",
+    "name": "",
+    "count": 205
+  },
+  {
+    "idx_orig": 284,
+    "pfam": "PF02033",
+    "name": "",
+    "count": 204
+  },
+  {
+    "idx_orig": 298,
+    "pfam": "PF00291",
+    "name": "",
+    "count": 203
+  },
+  {
+    "idx_orig": 361,
+    "pfam": "PF00181",
+    "name": "",
+    "count": 203
+  },
+  {
+    "idx_orig": 363,
+    "pfam": "PF03947",
+    "name": "",
+    "count": 203
+  },
+  {
+    "idx_orig": 418,
+    "pfam": "PF00753",
+    "name": "",
+    "count": 203
+  },
+  {
+    "idx_orig": 474,
+    "pfam": "PF24894",
+    "name": "",
+    "count": 203
+  },
+  {
+    "idx_orig": 348,
+    "pfam": "PF00149",
+    "name": "",
+    "count": 201
+  },
+  {
+    "idx_orig": 488,
+    "pfam": "PF13500",
+    "name": "",
+    "count": 201
+  },
+  {
+    "idx_orig": 494,
+    "pfam": "PF02568",
+    "name": "",
+    "count": 201
+  },
+  {
+    "idx_orig": 296,
+    "pfam": "PF00828",
+    "name": "",
+    "count": 200
+  },
+  {
+    "idx_orig": 483,
+    "pfam": "PF00378",
+    "name": "",
+    "count": 200
+  },
+  {
+    "idx_orig": 503,
+    "pfam": "PF00175",
+    "name": "",
+    "count": 200
+  },
+  {
+    "idx_orig": 300,
+    "pfam": "PF01192",
+    "name": "",
+    "count": 199
+  },
+  {
+    "idx_orig": 306,
+    "pfam": "PF00410",
+    "name": "",
+    "count": 199
+  },
+  {
+    "idx_orig": 492,
+    "pfam": "PF00449",
+    "name": "",
+    "count": 199
+  },
+  {
+    "idx_orig": 416,
+    "pfam": "PF01209",
+    "name": "",
+    "count": 198
+  },
+  {
+    "idx_orig": 502,
+    "pfam": "PF22025",
+    "name": "",
+    "count": 198
+  },
+  {
+    "idx_orig": 333,
+    "pfam": "PF00297",
+    "name": "",
+    "count": 197
+  },
+  {
+    "idx_orig": 597,
+    "pfam": "PF00148",
+    "name": "",
+    "count": 197
+  },
+  {
+    "idx_orig": 328,
+    "pfam": "PF17384",
+    "name": "",
+    "count": 196
+  },
+  {
+    "idx_orig": 389,
+    "pfam": "PF11987",
+    "name": "",
+    "count": 196
+  },
+  {
+    "idx_orig": 520,
+    "pfam": "PF09383",
+    "name": "",
+    "count": 196
+  },
+  {
+    "idx_orig": 493,
+    "pfam": "PF01717",
+    "name": "",
+    "count": 195
+  },
+  {
+    "idx_orig": 393,
+    "pfam": "PF04760",
+    "name": "",
+    "count": 194
+  },
+  {
+    "idx_orig": 501,
+    "pfam": "PF08267",
+    "name": "",
+    "count": 194
+  },
+  {
+    "idx_orig": 552,
+    "pfam": "PF02786",
+    "name": "",
+    "count": 194
+  },
+  {
+    "idx_orig": 287,
+    "pfam": "PF02416",
+    "name": "",
+    "count": 193
+  },
+  {
+    "idx_orig": 531,
+    "pfam": "PF10458",
+    "name": "",
+    "count": 193
+  },
+  {
+    "idx_orig": 573,
+    "pfam": "PF13361",
+    "name": "",
+    "count": 191
+  },
+  {
+    "idx_orig": 358,
+    "pfam": "PF01250",
+    "name": "",
+    "count": 190
+  },
+  {
+    "idx_orig": 281,
+    "pfam": "PF00468",
+    "name": "",
+    "count": 189
+  },
+  {
+    "idx_orig": 357,
+    "pfam": "PF02590",
+    "name": "",
+    "count": 189
+  },
+  {
+    "idx_orig": 371,
+    "pfam": "PF02601",
+    "name": "",
+    "count": 189
+  },
+  {
+    "idx_orig": 372,
+    "pfam": "PF13742",
+    "name": "",
+    "count": 189
+  },
+  {
+    "idx_orig": 319,
+    "pfam": "PF02823",
+    "name": "",
+    "count": 188
+  },
+  {
+    "idx_orig": 370,
+    "pfam": "PF02527",
+    "name": "",
+    "count": 188
+  },
+  {
+    "idx_orig": 347,
+    "pfam": "PF01668",
+    "name": "",
+    "count": 186
+  },
+  {
+    "idx_orig": 586,
+    "pfam": "PF25596",
+    "name": "",
+    "count": 186
+  },
+  {
+    "idx_orig": 369,
+    "pfam": "PF24986",
+    "name": "",
+    "count": 185
+  },
+  {
+    "idx_orig": 399,
+    "pfam": "PF02463",
+    "name": "",
+    "count": 185
+  },
+  {
+    "idx_orig": 591,
+    "pfam": "PF02787",
+    "name": "",
+    "count": 185
+  },
+  {
+    "idx_orig": 476,
+    "pfam": "PF13378",
+    "name": "",
+    "count": 184
+  },
+  {
+    "idx_orig": 311,
+    "pfam": "PF01790",
+    "name": "",
+    "count": 183
+  },
+  {
+    "idx_orig": 437,
+    "pfam": "PF00329",
+    "name": "",
+    "count": 183
+  },
+  {
+    "idx_orig": 568,
+    "pfam": "PF00725",
+    "name": "",
+    "count": 183
+  },
+  {
+    "idx_orig": 570,
+    "pfam": "PF02737",
+    "name": "",
+    "count": 183
+  },
+  {
+    "idx_orig": 353,
+    "pfam": "PF00466",
+    "name": "",
+    "count": 182
+  },
+  {
+    "idx_orig": 439,
+    "pfam": "PF08240",
+    "name": "",
+    "count": 182
+  },
+  {
+    "idx_orig": 385,
+    "pfam": "PF00581",
+    "name": "",
+    "count": 181
+  },
+  {
+    "idx_orig": 484,
+    "pfam": "PF01128",
+    "name": "",
+    "count": 180
+  },
+  {
+    "idx_orig": 453,
+    "pfam": "PF00365",
+    "name": "",
+    "count": 179
+  },
+  {
+    "idx_orig": 377,
+    "pfam": "PF01084",
+    "name": "",
+    "count": 178
+  },
+  {
+    "idx_orig": 411,
+    "pfam": "PF00166",
+    "name": "",
+    "count": 178
+  },
+  {
+    "idx_orig": 382,
+    "pfam": "PF00889",
+    "name": "",
+    "count": 176
+  },
+  {
+    "idx_orig": 394,
+    "pfam": "PF13393",
+    "name": "",
+    "count": 176
+  },
+  {
+    "idx_orig": 417,
+    "pfam": "PF00687",
+    "name": "",
+    "count": 176
+  },
+  {
+    "idx_orig": 466,
+    "pfam": "PF27096",
+    "name": "",
+    "count": 176
+  },
+  {
+    "idx_orig": 472,
+    "pfam": "PF08459",
+    "name": "",
+    "count": 176
+  },
+  {
+    "idx_orig": 544,
+    "pfam": "PF02222",
+    "name": "",
+    "count": 176
+  },
+  {
+    "idx_orig": 547,
+    "pfam": "PF22660",
+    "name": "",
+    "count": 176
+  },
+  {
+    "idx_orig": 409,
+    "pfam": "PF01746",
+    "name": "",
+    "count": 175
+  },
+  {
+    "idx_orig": 419,
+    "pfam": "PF01386",
+    "name": "",
+    "count": 175
+  },
+  {
+    "idx_orig": 442,
+    "pfam": "PF00270",
+    "name": "",
+    "count": 175
+  },
+  {
+    "idx_orig": 471,
+    "pfam": "PF01541",
+    "name": "",
+    "count": 175
+  },
+  {
+    "idx_orig": 525,
+    "pfam": "PF00384",
+    "name": "",
+    "count": 175
+  },
+  {
+    "idx_orig": 387,
+    "pfam": "PF00825",
+    "name": "",
+    "count": 174
+  },
+  {
+    "idx_orig": 543,
+    "pfam": "PF01751",
+    "name": "",
+    "count": 174
+  },
+  {
+    "idx_orig": 434,
+    "pfam": "PF02547",
+    "name": "",
+    "count": 173
+  },
+  {
+    "idx_orig": 444,
+    "pfam": "PF01509",
+    "name": "",
+    "count": 173
+  },
+  {
+    "idx_orig": 478,
+    "pfam": "PF22920",
+    "name": "",
+    "count": 173
+  },
+  {
+    "idx_orig": 498,
+    "pfam": "PF03764",
+    "name": "",
+    "count": 173
+  },
+  {
+    "idx_orig": 395,
+    "pfam": "PF00416",
+    "name": "",
+    "count": 172
+  },
+  {
+    "idx_orig": 517,
+    "pfam": "PF14849",
+    "name": "",
+    "count": 172
+  },
+  {
+    "idx_orig": 549,
+    "pfam": "PF00912",
+    "name": "",
+    "count": 172
+  },
+  {
+    "idx_orig": 567,
+    "pfam": "PF00817",
+    "name": "",
+    "count": 172
+  },
+  {
+    "idx_orig": 432,
+    "pfam": "PF00231",
+    "name": "",
+    "count": 171
+  },
+  {
+    "idx_orig": 451,
+    "pfam": "PF01634",
+    "name": "",
+    "count": 171
+  },
+  {
+    "idx_orig": 572,
+    "pfam": "PF11799",
+    "name": "",
+    "count": 171
+  },
+  {
+    "idx_orig": 530,
+    "pfam": "PF01293",
+    "name": "",
+    "count": 170
+  },
+  {
+    "idx_orig": 130,
+    "pfam": "PF07690",
+    "name": "",
+    "count": 169
+  },
+  {
+    "idx_orig": 529,
+    "pfam": "PF01070",
+    "name": "",
+    "count": 169
+  },
+  {
+    "idx_orig": 430,
+    "pfam": "PF00206",
+    "name": "",
+    "count": 168
+  },
+  {
+    "idx_orig": 518,
+    "pfam": "PF02637",
+    "name": "",
+    "count": 168
+  },
+  {
+    "idx_orig": 594,
+    "pfam": "PF02654",
+    "name": "",
+    "count": 168
+  },
+  {
+    "idx_orig": 440,
+    "pfam": "PF00189",
+    "name": "",
+    "count": 167
+  },
+  {
+    "idx_orig": 521,
+    "pfam": "PF02934",
+    "name": "",
+    "count": 167
+  },
+  {
+    "idx_orig": 580,
+    "pfam": "PF01339",
+    "name": "",
+    "count": 167
+  },
+  {
+    "idx_orig": 620,
+    "pfam": "PF00580",
+    "name": "",
+    "count": 166
+  },
+  {
+    "idx_orig": 462,
+    "pfam": "PF00107",
+    "name": "",
+    "count": 165
+  },
+  {
+    "idx_orig": 546,
+    "pfam": "PF00507",
+    "name": "",
+    "count": 165
+  },
+  {
+    "idx_orig": 643,
+    "pfam": "PF00142",
+    "name": "",
+    "count": 164
+  },
+  {
+    "idx_orig": 431,
+    "pfam": "PF17136",
+    "name": "",
+    "count": 163
+  },
+  {
+    "idx_orig": 534,
+    "pfam": "PF13489",
+    "name": "",
+    "count": 162
+  },
+  {
+    "idx_orig": 551,
+    "pfam": "PF01568",
+    "name": "",
+    "count": 162
+  },
+  {
+    "idx_orig": 601,
+    "pfam": "PF21244",
+    "name": "",
+    "count": 162
+  },
+  {
+    "idx_orig": 456,
+    "pfam": "PF02606",
+    "name": "",
+    "count": 161
+  },
+  {
+    "idx_orig": 468,
+    "pfam": "PF00534",
+    "name": "",
+    "count": 161
+  },
+  {
+    "idx_orig": 475,
+    "pfam": "PF00694",
+    "name": "",
+    "count": 161
+  },
+  {
+    "idx_orig": 497,
+    "pfam": "PF13603",
+    "name": "",
+    "count": 161
+  },
+  {
+    "idx_orig": 469,
+    "pfam": "PF01182",
+    "name": "",
+    "count": 160
+  },
+  {
+    "idx_orig": 362,
+    "pfam": "PF03618",
+    "name": "",
+    "count": 159
+  },
+  {
+    "idx_orig": 376,
+    "pfam": "PF00276",
+    "name": "",
+    "count": 159
+  },
+  {
+    "idx_orig": 404,
+    "pfam": "PF01632",
+    "name": "",
+    "count": 159
+  },
+  {
+    "idx_orig": 408,
+    "pfam": "PF00380",
+    "name": "",
+    "count": 159
+  },
+  {
+    "idx_orig": 447,
+    "pfam": "PF02223",
+    "name": "",
+    "count": 159
+  },
+  {
+    "idx_orig": 367,
+    "pfam": "PF03668",
+    "name": "",
+    "count": 158
+  },
+  {
+    "idx_orig": 368,
+    "pfam": "PF22740",
+    "name": "",
+    "count": 158
+  },
+  {
+    "idx_orig": 324,
+    "pfam": "PF01165",
+    "name": "",
+    "count": 157
+  },
+  {
+    "idx_orig": 396,
+    "pfam": "PF02565",
+    "name": "",
+    "count": 157
+  },
+  {
+    "idx_orig": 406,
+    "pfam": "PF00411",
+    "name": "",
+    "count": 157
+  },
+  {
+    "idx_orig": 563,
+    "pfam": "PF00664",
+    "name": "",
+    "count": 157
+  },
+  {
+    "idx_orig": 308,
+    "pfam": "PF01197",
+    "name": "",
+    "count": 156
+  },
+  {
+    "idx_orig": 575,
+    "pfam": "PF00925",
+    "name": "",
+    "count": 156
+  },
+  {
+    "idx_orig": 400,
+    "pfam": "PF11967",
+    "name": "",
+    "count": 155
+  },
+  {
+    "idx_orig": 425,
+    "pfam": "PF00485",
+    "name": "",
+    "count": 155
+  },
+  {
+    "idx_orig": 449,
+    "pfam": "PF00512",
+    "name": "",
+    "count": 155
+  },
+  {
+    "idx_orig": 522,
+    "pfam": "PF00389",
+    "name": "",
+    "count": 155
+  },
+  {
+    "idx_orig": 558,
+    "pfam": "PF14693",
+    "name": "",
+    "count": 155
+  },
+  {
+    "idx_orig": 426,
+    "pfam": "PF00281",
+    "name": "",
+    "count": 154
+  },
+  {
+    "idx_orig": 428,
+    "pfam": "PF00673",
+    "name": "",
+    "count": 154
+  },
+  {
+    "idx_orig": 561,
+    "pfam": "PF23023",
+    "name": "",
+    "count": 154
+  },
+  {
+    "idx_orig": 677,
+    "pfam": "PF00016",
+    "name": "",
+    "count": 154
+  },
+  {
+    "idx_orig": 565,
+    "pfam": "PF04204",
+    "name": "",
+    "count": 153
+  },
+  {
+    "idx_orig": 599,
+    "pfam": "PF14819",
+    "name": "",
+    "count": 153
+  },
+  {
+    "idx_orig": 508,
+    "pfam": "PF00318",
+    "name": "",
+    "count": 152
+  },
+  {
+    "idx_orig": 556,
+    "pfam": "PF00926",
+    "name": "",
+    "count": 152
+  },
+  {
+    "idx_orig": 595,
+    "pfam": "PF13507",
+    "name": "",
+    "count": 152
+  },
+  {
+    "idx_orig": 634,
+    "pfam": "PF00962",
+    "name": "",
+    "count": 152
+  },
+  {
+    "idx_orig": 446,
+    "pfam": "PF00467",
+    "name": "",
+    "count": 151
+  },
+  {
+    "idx_orig": 555,
+    "pfam": "PF00122",
+    "name": "",
+    "count": 151
+  },
+  {
+    "idx_orig": 686,
+    "pfam": "PF02788",
+    "name": "",
+    "count": 151
+  },
+  {
+    "idx_orig": 415,
+    "pfam": "PF02575",
+    "name": "",
+    "count": 150
+  },
+  {
+    "idx_orig": 587,
+    "pfam": "PF01380",
+    "name": "",
+    "count": 150
+  },
+  {
+    "idx_orig": 413,
+    "pfam": "PF01016",
+    "name": "",
+    "count": 149
+  },
+  {
+    "idx_orig": 500,
+    "pfam": "PF05025",
+    "name": "",
+    "count": 149
+  },
+  {
+    "idx_orig": 564,
+    "pfam": "PF01218",
+    "name": "",
+    "count": 149
+  },
+  {
+    "idx_orig": 606,
+    "pfam": "PF22645",
+    "name": "",
+    "count": 149
+  },
+  {
+    "idx_orig": 632,
+    "pfam": "PF16582",
+    "name": "",
+    "count": 149
+  },
+  {
+    "idx_orig": 460,
+    "pfam": "PF03652",
+    "name": "",
+    "count": 148
+  },
+  {
+    "idx_orig": 407,
+    "pfam": "PF00831",
+    "name": "",
+    "count": 147
+  },
+  {
+    "idx_orig": 464,
+    "pfam": "PF02705",
+    "name": "",
+    "count": 147
+  },
+  {
+    "idx_orig": 465,
+    "pfam": "PF22776",
+    "name": "",
+    "count": 147
+  },
+  {
+    "idx_orig": 590,
+    "pfam": "PF02603",
+    "name": "",
+    "count": 147
+  },
+  {
+    "idx_orig": 592,
+    "pfam": "PF07475",
+    "name": "",
+    "count": 147
+  },
+  {
+    "idx_orig": 593,
+    "pfam": "PF16123",
+    "name": "",
+    "count": 147
+  },
+  {
+    "idx_orig": 684,
+    "pfam": "PF07836",
+    "name": "",
+    "count": 147
+  },
+  {
+    "idx_orig": 727,
+    "pfam": "PF01434",
+    "name": "",
+    "count": 146
+  },
+  {
+    "idx_orig": 728,
+    "pfam": "PF17862",
+    "name": "",
+    "count": 146
+  },
+  {
+    "idx_orig": 554,
+    "pfam": "PF06463",
+    "name": "",
+    "count": 145
+  },
+  {
+    "idx_orig": 622,
+    "pfam": "PF22019",
+    "name": "",
+    "count": 145
+  },
+  {
+    "idx_orig": 397,
+    "pfam": "PF00216",
+    "name": "",
+    "count": 144
+  },
+  {
+    "idx_orig": 490,
+    "pfam": "PF00177",
+    "name": "",
+    "count": 144
+  },
+  {
+    "idx_orig": 506,
+    "pfam": "PF16198",
+    "name": "",
+    "count": 144
+  },
+  {
+    "idx_orig": 514,
+    "pfam": "PF01967",
+    "name": "",
+    "count": 144
+  },
+  {
+    "idx_orig": 610,
+    "pfam": "PF08402",
+    "name": "",
+    "count": 144
+  },
+  {
+    "idx_orig": 658,
+    "pfam": "PF00111",
+    "name": "",
+    "count": 144
+  },
+  {
+    "idx_orig": 461,
+    "pfam": "PF13662",
+    "name": "",
+    "count": 143
+  },
+  {
+    "idx_orig": 545,
+    "pfam": "PF00108",
+    "name": "",
+    "count": 143
+  },
+  {
+    "idx_orig": 585,
+    "pfam": "PF14805",
+    "name": "",
+    "count": 143
+  },
+  {
+    "idx_orig": 485,
+    "pfam": "PF00327",
+    "name": "",
+    "count": 142
+  },
+  {
+    "idx_orig": 569,
+    "pfam": "PF00750",
+    "name": "",
+    "count": 142
+  },
+  {
+    "idx_orig": 617,
+    "pfam": "PF01077",
+    "name": "",
+    "count": 142
+  },
+  {
+    "idx_orig": 640,
+    "pfam": "PF00670",
+    "name": "",
+    "count": 142
+  },
+  {
+    "idx_orig": 642,
+    "pfam": "PF05221",
+    "name": "",
+    "count": 142
+  },
+  {
+    "idx_orig": 710,
+    "pfam": "PF05430",
+    "name": "",
+    "count": 142
+  },
+  {
+    "idx_orig": 571,
+    "pfam": "PF03485",
+    "name": "",
+    "count": 141
+  },
+  {
+    "idx_orig": 539,
+    "pfam": "PF01177",
+    "name": "",
+    "count": 140
+  },
+  {
+    "idx_orig": 614,
+    "pfam": "PF04879",
+    "name": "",
+    "count": 140
+  },
+  {
+    "idx_orig": 619,
+    "pfam": "PF27523",
+    "name": "",
+    "count": 140
+  },
+  {
+    "idx_orig": 623,
+    "pfam": "PF03460",
+    "name": "",
+    "count": 140
+  },
+  {
+    "idx_orig": 691,
+    "pfam": "PF00355",
+    "name": "",
+    "count": 140
+  },
+  {
+    "idx_orig": 473,
+    "pfam": "PF21176",
+    "name": "",
+    "count": 139
+  },
+  {
+    "idx_orig": 507,
+    "pfam": "PF00238",
+    "name": "",
+    "count": 139
+  },
+  {
+    "idx_orig": 557,
+    "pfam": "PF02803",
+    "name": "",
+    "count": 139
+  },
+  {
+    "idx_orig": 613,
+    "pfam": "PF01713",
+    "name": "",
+    "count": 139
+  },
+  {
+    "idx_orig": 644,
+    "pfam": "PF00590",
+    "name": "",
+    "count": 139
+  },
+  {
+    "idx_orig": 441,
+    "pfam": "PF00589",
+    "name": "",
+    "count": 138
+  },
+  {
+    "idx_orig": 509,
+    "pfam": "PF01464",
+    "name": "",
+    "count": 138
+  },
+  {
+    "idx_orig": 511,
+    "pfam": "PF03946",
+    "name": "",
+    "count": 138
+  },
+  {
+    "idx_orig": 535,
+    "pfam": "PF13580",
+    "name": "",
+    "count": 138
+  },
+  {
+    "idx_orig": 445,
+    "pfam": "PF00126",
+    "name": "",
+    "count": 137
+  },
+  {
+    "idx_orig": 513,
+    "pfam": "PF00298",
+    "name": "",
+    "count": 137
+  },
+  {
+    "idx_orig": 527,
+    "pfam": "PF13932",
+    "name": "",
+    "count": 137
+  },
+  {
+    "idx_orig": 626,
+    "pfam": "PF00815",
+    "name": "",
+    "count": 137
+  },
+  {
+    "idx_orig": 487,
+    "pfam": "PF00453",
+    "name": "",
+    "count": 136
+  },
+  {
+    "idx_orig": 602,
+    "pfam": "PF01135",
+    "name": "",
+    "count": 136
+  },
+  {
+    "idx_orig": 452,
+    "pfam": "PF00312",
+    "name": "",
+    "count": 134
+  },
+  {
+    "idx_orig": 550,
+    "pfam": "PF01245",
+    "name": "",
+    "count": 134
+  },
+  {
+    "idx_orig": 560,
+    "pfam": "PF06965",
+    "name": "",
+    "count": 134
+  },
+  {
+    "idx_orig": 641,
+    "pfam": "PF02746",
+    "name": "",
+    "count": 134
+  },
+  {
+    "idx_orig": 695,
+    "pfam": "PF16177",
+    "name": "",
+    "count": 134
+  },
+  {
+    "idx_orig": 700,
+    "pfam": "PF02628",
+    "name": "",
+    "count": 134
+  },
+  {
+    "idx_orig": 384,
+    "pfam": "PF02508",
+    "name": "",
+    "count": 133
+  },
+  {
+    "idx_orig": 505,
+    "pfam": "PF06325",
+    "name": "",
+    "count": 133
+  },
+  {
+    "idx_orig": 532,
+    "pfam": "PF21680",
+    "name": "",
+    "count": 133
+  },
+  {
+    "idx_orig": 512,
+    "pfam": "PF00252",
+    "name": "",
+    "count": 132
+  },
+  {
+    "idx_orig": 533,
+    "pfam": "PF00347",
+    "name": "",
+    "count": 132
+  },
+  {
+    "idx_orig": 536,
+    "pfam": "PF01774",
+    "name": "",
+    "count": 132
+  },
+  {
+    "idx_orig": 589,
+    "pfam": "PF01628",
+    "name": "",
+    "count": 132
+  },
+  {
+    "idx_orig": 524,
+    "pfam": "PF13589",
+    "name": "",
+    "count": 131
+  },
+  {
+    "idx_orig": 720,
+    "pfam": "PF01977",
+    "name": "",
+    "count": 131
+  },
+  {
+    "idx_orig": 723,
+    "pfam": "PF20695",
+    "name": "",
+    "count": 131
+  },
+  {
+    "idx_orig": 724,
+    "pfam": "PF20696",
+    "name": "",
+    "count": 131
+  },
+  {
+    "idx_orig": 459,
+    "pfam": "PF03466",
+    "name": "",
+    "count": 130
+  },
+  {
+    "idx_orig": 734,
+    "pfam": "PF05636",
+    "name": "",
+    "count": 130
+  },
+  {
+    "idx_orig": 655,
+    "pfam": "PF01174",
+    "name": "",
+    "count": 129
+  },
+  {
+    "idx_orig": 730,
+    "pfam": "PF00988",
+    "name": "",
+    "count": 128
+  },
+  {
+    "idx_orig": 489,
+    "pfam": "PF21175",
+    "name": "",
+    "count": 127
+  },
+  {
+    "idx_orig": 648,
+    "pfam": "PF06865",
+    "name": "",
+    "count": 127
+  },
+  {
+    "idx_orig": 692,
+    "pfam": "PF00746",
+    "name": "",
+    "count": 127
+  },
+  {
+    "idx_orig": 553,
+    "pfam": "PF00929",
+    "name": "",
+    "count": 126
+  },
+  {
+    "idx_orig": 660,
+    "pfam": "PF27444",
+    "name": "",
+    "count": 126
+  },
+  {
+    "idx_orig": 486,
+    "pfam": "PF00366",
+    "name": "",
+    "count": 125
+  },
+  {
+    "idx_orig": 604,
+    "pfam": "PF14714",
+    "name": "",
+    "count": 125
+  },
+  {
+    "idx_orig": 722,
+    "pfam": "PF04166",
+    "name": "",
+    "count": 125
+  },
+  {
+    "idx_orig": 496,
+    "pfam": "PF00338",
+    "name": "",
+    "count": 124
+  },
+  {
+    "idx_orig": 542,
+    "pfam": "PF01025",
+    "name": "",
+    "count": 124
+  },
+  {
+    "idx_orig": 598,
+    "pfam": "PF00475",
+    "name": "",
+    "count": 124
+  },
+  {
+    "idx_orig": 751,
+    "pfam": "PF20297",
+    "name": "",
+    "count": 124
+  },
+  {
+    "idx_orig": 562,
+    "pfam": "PF00572",
+    "name": "",
+    "count": 123
+  },
+  {
+    "idx_orig": 689,
+    "pfam": "PF00795",
+    "name": "",
+    "count": 123
+  },
+  {
+    "idx_orig": 504,
+    "pfam": "PF02132",
+    "name": "",
+    "count": 122
+  },
+  {
+    "idx_orig": 683,
+    "pfam": "PF00265",
+    "name": "",
+    "count": 122
+  },
+  {
+    "idx_orig": 688,
+    "pfam": "PF18125",
+    "name": "",
+    "count": 122
+  },
+  {
+    "idx_orig": 470,
+    "pfam": "PF01435",
+    "name": "",
+    "count": 121
+  },
+  {
+    "idx_orig": 583,
+    "pfam": "PF00290",
+    "name": "",
+    "count": 121
+  },
+  {
+    "idx_orig": 690,
+    "pfam": "PF21239",
+    "name": "",
+    "count": 121
+  },
+  {
+    "idx_orig": 646,
+    "pfam": "PF01564",
+    "name": "",
+    "count": 120
+  },
+  {
+    "idx_orig": 696,
+    "pfam": "PF01300",
+    "name": "",
+    "count": 120
+  },
+  {
+    "idx_orig": 795,
+    "pfam": "PF05362",
+    "name": "",
+    "count": 120
+  },
+  {
+    "idx_orig": 733,
+    "pfam": "PF03063",
+    "name": "",
+    "count": 118
+  },
+  {
+    "idx_orig": 574,
+    "pfam": "PF00535",
+    "name": "",
+    "count": 117
+  },
+  {
+    "idx_orig": 596,
+    "pfam": "PF02092",
+    "name": "",
+    "count": 117
+  },
+  {
+    "idx_orig": 758,
+    "pfam": "PF13241",
+    "name": "",
+    "count": 117
+  },
+  {
+    "idx_orig": 818,
+    "pfam": "PF22667",
+    "name": "",
+    "count": 117
+  },
+  {
+    "idx_orig": 650,
+    "pfam": "PF02675",
+    "name": "",
+    "count": 115
+  },
+  {
+    "idx_orig": 654,
+    "pfam": "PF03358",
+    "name": "",
+    "count": 115
+  },
+  {
+    "idx_orig": 715,
+    "pfam": "PF01175",
+    "name": "",
+    "count": 115
+  },
+  {
+    "idx_orig": 717,
+    "pfam": "PF17391",
+    "name": "",
+    "count": 115
+  },
+  {
+    "idx_orig": 718,
+    "pfam": "PF17392",
+    "name": "",
+    "count": 115
+  },
+  {
+    "idx_orig": 726,
+    "pfam": "PF01142",
+    "name": "",
+    "count": 115
+  },
+  {
+    "idx_orig": 764,
+    "pfam": "PF13793",
+    "name": "",
+    "count": 115
+  },
+  {
+    "idx_orig": 769,
+    "pfam": "PF00970",
+    "name": "",
+    "count": 115
+  },
+  {
+    "idx_orig": 772,
+    "pfam": "PF10414",
+    "name": "",
+    "count": 115
+  },
+  {
+    "idx_orig": 603,
+    "pfam": "PF02348",
+    "name": "",
+    "count": 114
+  },
+  {
+    "idx_orig": 697,
+    "pfam": "PF01909",
+    "name": "",
+    "count": 114
+  },
+  {
+    "idx_orig": 828,
+    "pfam": "PF02190",
+    "name": "",
+    "count": 114
+  },
+  {
+    "idx_orig": 612,
+    "pfam": "PF04472",
+    "name": "",
+    "count": 112
+  },
+  {
+    "idx_orig": 615,
+    "pfam": "PF13561",
+    "name": "",
+    "count": 112
+  },
+  {
+    "idx_orig": 621,
+    "pfam": "PF02852",
+    "name": "",
+    "count": 112
+  },
+  {
+    "idx_orig": 712,
+    "pfam": "PF17871",
+    "name": "",
+    "count": 112
+  },
+  {
+    "idx_orig": 738,
+    "pfam": "PF13522",
+    "name": "",
+    "count": 112
+  },
+  {
+    "idx_orig": 811,
+    "pfam": "PF21445",
+    "name": "",
+    "count": 112
+  },
+  {
+    "idx_orig": 636,
+    "pfam": "PF01656",
+    "name": "",
+    "count": 111
+  },
+  {
+    "idx_orig": 657,
+    "pfam": "PF07685",
+    "name": "",
+    "count": 110
+  },
+  {
+    "idx_orig": 671,
+    "pfam": "PF08029",
+    "name": "",
+    "count": 110
+  },
+  {
+    "idx_orig": 548,
+    "pfam": "PF00203",
+    "name": "",
+    "count": 109
+  },
+  {
+    "idx_orig": 780,
+    "pfam": "PF14572",
+    "name": "",
+    "count": 109
+  },
+  {
+    "idx_orig": 631,
+    "pfam": "PF04613",
+    "name": "",
+    "count": 108
+  },
+  {
+    "idx_orig": 787,
+    "pfam": "PF03710",
+    "name": "",
+    "count": 108
+  },
+  {
+    "idx_orig": 540,
+    "pfam": "PF02899",
+    "name": "",
+    "count": 107
+  },
+  {
+    "idx_orig": 628,
+    "pfam": "PF00044",
+    "name": "",
+    "count": 107
+  },
+  {
+    "idx_orig": 630,
+    "pfam": "PF02800",
+    "name": "",
+    "count": 107
+  },
+  {
+    "idx_orig": 743,
+    "pfam": "PF04650",
+    "name": "",
+    "count": 107
+  },
+  {
+    "idx_orig": 797,
+    "pfam": "PF14824",
+    "name": "",
+    "count": 107
+  },
+  {
+    "idx_orig": 638,
+    "pfam": "PF00596",
+    "name": "",
+    "count": 106
+  },
+  {
+    "idx_orig": 679,
+    "pfam": "PF01189",
+    "name": "",
+    "count": 106
+  },
+  {
+    "idx_orig": 479,
+    "pfam": "PF02609",
+    "name": "",
+    "count": 105
+  },
+  {
+    "idx_orig": 528,
+    "pfam": "PF00401",
+    "name": "",
+    "count": 105
+  },
+  {
+    "idx_orig": 844,
+    "pfam": "PF00124",
+    "name": "",
+    "count": 105
+  },
+  {
+    "idx_orig": 863,
+    "pfam": "PF06480",
+    "name": "",
+    "count": 105
+  },
+  {
+    "idx_orig": 566,
+    "pfam": "PF00119",
+    "name": "",
+    "count": 104
+  },
+  {
+    "idx_orig": 581,
+    "pfam": "PF00692",
+    "name": "",
+    "count": 104
+  },
+  {
+    "idx_orig": 649,
+    "pfam": "PF01641",
+    "name": "",
+    "count": 103
+  },
+  {
+    "idx_orig": 663,
+    "pfam": "PF01624",
+    "name": "",
+    "count": 103
+  },
+  {
+    "idx_orig": 666,
+    "pfam": "PF05188",
+    "name": "",
+    "count": 103
+  },
+  {
+    "idx_orig": 667,
+    "pfam": "PF05190",
+    "name": "",
+    "count": 103
+  },
+  {
+    "idx_orig": 668,
+    "pfam": "PF05192",
+    "name": "",
+    "count": 103
+  },
+  {
+    "idx_orig": 674,
+    "pfam": "PF01842",
+    "name": "",
+    "count": 103
+  },
+  {
+    "idx_orig": 576,
+    "pfam": "PF01132",
+    "name": "",
+    "count": 102
+  },
+  {
+    "idx_orig": 577,
+    "pfam": "PF08207",
+    "name": "",
+    "count": 102
+  },
+  {
+    "idx_orig": 578,
+    "pfam": "PF09285",
+    "name": "",
+    "count": 102
+  },
+  {
+    "idx_orig": 790,
+    "pfam": "PF01494",
+    "name": "",
+    "count": 102
+  },
+  {
+    "idx_orig": 651,
+    "pfam": "PF00557",
+    "name": "",
+    "count": 101
+  },
+  {
+    "idx_orig": 714,
+    "pfam": "PF00497",
+    "name": "",
+    "count": 101
+  },
+  {
+    "idx_orig": 742,
+    "pfam": "PF02861",
+    "name": "",
+    "count": 101
+  },
+  {
+    "idx_orig": 482,
+    "pfam": "PF05175",
+    "name": "",
+    "count": 100
+  },
+  {
+    "idx_orig": 635,
+    "pfam": "PF01259",
+    "name": "",
+    "count": 100
+  },
+  {
+    "idx_orig": 705,
+    "pfam": "PF17284",
+    "name": "",
+    "count": 100
+  },
+  {
+    "idx_orig": 762,
+    "pfam": "PF05199",
+    "name": "",
+    "count": 100
+  },
+  {
+    "idx_orig": 669,
+    "pfam": "PF01503",
+    "name": "",
+    "count": 99
+  },
+  {
+    "idx_orig": 678,
+    "pfam": "PF10672",
+    "name": "",
+    "count": 99
+  },
+  {
+    "idx_orig": 744,
+    "pfam": "PF27446",
+    "name": "",
+    "count": 99
+  },
+  {
+    "idx_orig": 767,
+    "pfam": "PF00732",
+    "name": "",
+    "count": 99
+  },
+  {
+    "idx_orig": 637,
+    "pfam": "PF04542",
+    "name": "",
+    "count": 98
+  },
+  {
+    "idx_orig": 645,
+    "pfam": "PF00478",
+    "name": "",
+    "count": 98
+  },
+  {
+    "idx_orig": 661,
+    "pfam": "PF17773",
+    "name": "",
+    "count": 98
+  },
+  {
+    "idx_orig": 713,
+    "pfam": "PF27536",
+    "name": "",
+    "count": 98
+  },
+  {
+    "idx_orig": 794,
+    "pfam": "PF01008",
+    "name": "",
+    "count": 98
+  },
+  {
+    "idx_orig": 845,
+    "pfam": "PF00521",
+    "name": "",
+    "count": 98
+  },
+  {
+    "idx_orig": 588,
+    "pfam": "PF01625",
+    "name": "",
+    "count": 97
+  },
+  {
+    "idx_orig": 653,
+    "pfam": "PF01327",
+    "name": "",
+    "count": 97
+  },
+  {
+    "idx_orig": 709,
+    "pfam": "PF03109",
+    "name": "",
+    "count": 97
+  },
+  {
+    "idx_orig": 763,
+    "pfam": "PF11890",
+    "name": "",
+    "count": 97
+  },
+  {
+    "idx_orig": 608,
+    "pfam": "PF01597",
+    "name": "",
+    "count": 96
+  },
+  {
+    "idx_orig": 803,
+    "pfam": "PF01960",
+    "name": "",
+    "count": 96
+  },
+  {
+    "idx_orig": 427,
+    "pfam": "PF00528",
+    "name": "",
+    "count": 95
+  },
+  {
+    "idx_orig": 702,
+    "pfam": "PF00296",
+    "name": "",
+    "count": 95
+  },
+  {
+    "idx_orig": 749,
+    "pfam": "PF02687",
+    "name": "",
+    "count": 95
+  },
+  {
+    "idx_orig": 781,
+    "pfam": "PF00081",
+    "name": "",
+    "count": 95
+  },
+  {
+    "idx_orig": 786,
+    "pfam": "PF02777",
+    "name": "",
+    "count": 95
+  },
+  {
+    "idx_orig": 809,
+    "pfam": "PF03841",
+    "name": "",
+    "count": 95
+  },
+  {
+    "idx_orig": 829,
+    "pfam": "PF21999",
+    "name": "",
+    "count": 95
+  },
+  {
+    "idx_orig": 609,
+    "pfam": "PF02631",
+    "name": "",
+    "count": 94
+  },
+  {
+    "idx_orig": 729,
+    "pfam": "PF00383",
+    "name": "",
+    "count": 94
+  },
+  {
+    "idx_orig": 796,
+    "pfam": "PF12706",
+    "name": "",
+    "count": 94
+  },
+  {
+    "idx_orig": 538,
+    "pfam": "PF27436",
+    "name": "",
+    "count": 93
+  },
+  {
+    "idx_orig": 676,
+    "pfam": "PF01272",
+    "name": "",
+    "count": 93
+  },
+  {
+    "idx_orig": 682,
+    "pfam": "PF03449",
+    "name": "",
+    "count": 93
+  },
+  {
+    "idx_orig": 775,
+    "pfam": "PF01268",
+    "name": "",
+    "count": 93
+  },
+  {
+    "idx_orig": 793,
+    "pfam": "PF00933",
+    "name": "",
+    "count": 93
+  },
+  {
+    "idx_orig": 467,
+    "pfam": "PF00440",
+    "name": "",
+    "count": 92
+  },
+  {
+    "idx_orig": 605,
+    "pfam": "PF02381",
+    "name": "",
+    "count": 92
+  },
+  {
+    "idx_orig": 639,
+    "pfam": "PF07676",
+    "name": "",
+    "count": 92
+  },
+  {
+    "idx_orig": 799,
+    "pfam": "PF00639",
+    "name": "",
+    "count": 92
+  },
+  {
+    "idx_orig": 820,
+    "pfam": "PF00204",
+    "name": "",
+    "count": 92
+  },
+  {
+    "idx_orig": 582,
+    "pfam": "PF00196",
+    "name": "",
+    "count": 91
+  },
+  {
+    "idx_orig": 633,
+    "pfam": "PF21982",
+    "name": "",
+    "count": 91
+  },
+  {
+    "idx_orig": 701,
+    "pfam": "PF14698",
+    "name": "",
+    "count": 91
+  },
+  {
+    "idx_orig": 840,
+    "pfam": "PF27457",
+    "name": "",
+    "count": 91
+  },
+  {
+    "idx_orig": 559,
+    "pfam": "PF04002",
+    "name": "",
+    "count": 90
+  },
+  {
+    "idx_orig": 785,
+    "pfam": "PF01583",
+    "name": "",
+    "count": 90
+  },
+  {
+    "idx_orig": 901,
+    "pfam": "PF12890",
+    "name": "",
+    "count": 90
+  },
+  {
+    "idx_orig": 600,
+    "pfam": "PF01741",
+    "name": "",
+    "count": 89
+  },
+  {
+    "idx_orig": 704,
+    "pfam": "PF02378",
+    "name": "",
+    "count": 89
+  },
+  {
+    "idx_orig": 756,
+    "pfam": "PF04131",
+    "name": "",
+    "count": 89
+  },
+  {
+    "idx_orig": 753,
+    "pfam": "PF00258",
+    "name": "",
+    "count": 88
+  },
+  {
+    "idx_orig": 838,
+    "pfam": "PF06315",
+    "name": "",
+    "count": 88
+  },
+  {
+    "idx_orig": 839,
+    "pfam": "PF20423",
+    "name": "",
+    "count": 88
+  },
+  {
+    "idx_orig": 876,
+    "pfam": "PF07055",
+    "name": "",
+    "count": 88
+  },
+  {
+    "idx_orig": 878,
+    "pfam": "PF12241",
+    "name": "",
+    "count": 88
+  },
+  {
+    "idx_orig": 879,
+    "pfam": "PF12242",
+    "name": "",
+    "count": 88
+  },
+  {
+    "idx_orig": 884,
+    "pfam": "PF03989",
+    "name": "",
+    "count": 88
+  },
+  {
+    "idx_orig": 579,
+    "pfam": "PF20582",
+    "name": "",
+    "count": 87
+  },
+  {
+    "idx_orig": 652,
+    "pfam": "PF00583",
+    "name": "",
+    "count": 87
+  },
+  {
+    "idx_orig": 703,
+    "pfam": "PF01119",
+    "name": "",
+    "count": 87
+  },
+  {
+    "idx_orig": 711,
+    "pfam": "PF08676",
+    "name": "",
+    "count": 87
+  },
+  {
+    "idx_orig": 784,
+    "pfam": "PF01170",
+    "name": "",
+    "count": 87
+  },
+  {
+    "idx_orig": 831,
+    "pfam": "PF01580",
+    "name": "",
+    "count": 87
+  },
+  {
+    "idx_orig": 616,
+    "pfam": "PF21981",
+    "name": "",
+    "count": 86
+  },
+  {
+    "idx_orig": 625,
+    "pfam": "PF00672",
+    "name": "",
+    "count": 86
+  },
+  {
+    "idx_orig": 647,
+    "pfam": "PF02659",
+    "name": "",
+    "count": 86
+  },
+  {
+    "idx_orig": 792,
+    "pfam": "PF22020",
+    "name": "",
+    "count": 86
+  },
+  {
+    "idx_orig": 801,
+    "pfam": "PF10509",
+    "name": "",
+    "count": 86
+  },
+  {
+    "idx_orig": 541,
+    "pfam": "PF00486",
+    "name": "",
+    "count": 85
+  },
+  {
+    "idx_orig": 670,
+    "pfam": "PF27512",
+    "name": "",
+    "count": 85
+  },
+  {
+    "idx_orig": 745,
+    "pfam": "PF01487",
+    "name": "",
+    "count": 85
+  },
+  {
+    "idx_orig": 910,
+    "pfam": "PF01512",
+    "name": "",
+    "count": 85
+  },
+  {
+    "idx_orig": 917,
+    "pfam": "PF26341",
+    "name": "",
+    "count": 85
+  },
+  {
+    "idx_orig": 920,
+    "pfam": "PF03079",
+    "name": "",
+    "count": 85
+  },
+  {
+    "idx_orig": 680,
+    "pfam": "PF01730",
+    "name": "",
+    "count": 84
+  },
+  {
+    "idx_orig": 755,
+    "pfam": "PF01680",
+    "name": "",
+    "count": 84
+  },
+  {
+    "idx_orig": 826,
+    "pfam": "PF24827",
+    "name": "",
+    "count": 84
+  },
+  {
+    "idx_orig": 662,
+    "pfam": "PF01571",
+    "name": "",
+    "count": 83
+  },
+  {
+    "idx_orig": 707,
+    "pfam": "PF02445",
+    "name": "",
+    "count": 83
+  },
+  {
+    "idx_orig": 813,
+    "pfam": "PF08543",
+    "name": "",
+    "count": 83
+  },
+  {
+    "idx_orig": 865,
+    "pfam": "PF12704",
+    "name": "",
+    "count": 83
+  },
+  {
+    "idx_orig": 916,
+    "pfam": "PF02146",
+    "name": "",
+    "count": 83
+  },
+  {
+    "idx_orig": 942,
+    "pfam": "PF16745",
+    "name": "",
+    "count": 83
+  },
+  {
+    "idx_orig": 777,
+    "pfam": "PF00106",
+    "name": "",
+    "count": 82
+  },
+  {
+    "idx_orig": 834,
+    "pfam": "PF04952",
+    "name": "",
+    "count": 82
+  },
+  {
+    "idx_orig": 928,
+    "pfam": "PF00502",
+    "name": "",
+    "count": 82
+  },
+  {
+    "idx_orig": 946,
+    "pfam": "PF07963",
+    "name": "",
+    "count": 82
+  },
+  {
+    "idx_orig": 673,
+    "pfam": "PF04052",
+    "name": "",
+    "count": 81
+  },
+  {
+    "idx_orig": 732,
+    "pfam": "PF00218",
+    "name": "",
+    "count": 81
+  },
+  {
+    "idx_orig": 819,
+    "pfam": "PF00067",
+    "name": "",
+    "count": 81
+  },
+  {
+    "idx_orig": 846,
+    "pfam": "PF01408",
+    "name": "",
+    "count": 81
+  },
+  {
+    "idx_orig": 950,
+    "pfam": "PF00034",
+    "name": "",
+    "count": 81
+  },
+  {
+    "idx_orig": 611,
+    "pfam": "PF02556",
+    "name": "",
+    "count": 80
+  },
+  {
+    "idx_orig": 672,
+    "pfam": "PF08669",
+    "name": "",
+    "count": 80
+  },
+  {
+    "idx_orig": 706,
+    "pfam": "PF01636",
+    "name": "",
+    "count": 80
+  },
+  {
+    "idx_orig": 731,
+    "pfam": "PF04072",
+    "name": "",
+    "count": 80
+  },
+  {
+    "idx_orig": 746,
+    "pfam": "PF03737",
+    "name": "",
+    "count": 80
+  },
+  {
+    "idx_orig": 1002,
+    "pfam": "PF03945",
+    "name": "",
+    "count": 80
+  },
+  {
+    "idx_orig": 665,
+    "pfam": "PF03814",
+    "name": "",
+    "count": 79
+  },
+  {
+    "idx_orig": 694,
+    "pfam": "PF01176",
+    "name": "",
+    "count": 79
+  },
+  {
+    "idx_orig": 752,
+    "pfam": "PF00890",
+    "name": "",
+    "count": 79
+  },
+  {
+    "idx_orig": 778,
+    "pfam": "PF00491",
+    "name": "",
+    "count": 79
+  },
+  {
+    "idx_orig": 835,
+    "pfam": "PF00176",
+    "name": "",
+    "count": 79
+  },
+  {
+    "idx_orig": 889,
+    "pfam": "PF00905",
+    "name": "",
+    "count": 79
+  },
+  {
+    "idx_orig": 1008,
+    "pfam": "PF03944",
+    "name": "",
+    "count": 79
+  },
+  {
+    "idx_orig": 699,
+    "pfam": "PF08323",
+    "name": "",
+    "count": 78
+  },
+  {
+    "idx_orig": 716,
+    "pfam": "PF02669",
+    "name": "",
+    "count": 78
+  },
+  {
+    "idx_orig": 747,
+    "pfam": "PF00697",
+    "name": "",
+    "count": 78
+  },
+  {
+    "idx_orig": 776,
+    "pfam": "PF03328",
+    "name": "",
+    "count": 78
+  },
+  {
+    "idx_orig": 814,
+    "pfam": "PF01367",
+    "name": "",
+    "count": 78
+  },
+  {
+    "idx_orig": 815,
+    "pfam": "PF02739",
+    "name": "",
+    "count": 78
+  },
+  {
+    "idx_orig": 816,
+    "pfam": "PF02784",
+    "name": "",
+    "count": 78
+  },
+  {
+    "idx_orig": 967,
+    "pfam": "PF13354",
+    "name": "",
+    "count": 78
+  },
+  {
+    "idx_orig": 607,
+    "pfam": "PF13649",
+    "name": "",
+    "count": 77
+  },
+  {
+    "idx_orig": 760,
+    "pfam": "PF02650",
+    "name": "",
+    "count": 77
+  },
+  {
+    "idx_orig": 765,
+    "pfam": "PF14527",
+    "name": "",
+    "count": 77
+  },
+  {
+    "idx_orig": 848,
+    "pfam": "PF12137",
+    "name": "",
+    "count": 77
+  },
+  {
+    "idx_orig": 849,
+    "pfam": "PF18337",
+    "name": "",
+    "count": 77
+  },
+  {
+    "idx_orig": 850,
+    "pfam": "PF18339",
+    "name": "",
+    "count": 77
+  },
+  {
+    "idx_orig": 854,
+    "pfam": "PF01041",
+    "name": "",
+    "count": 77
+  },
+  {
+    "idx_orig": 925,
+    "pfam": "PF17854",
+    "name": "",
+    "count": 77
+  },
+  {
+    "idx_orig": 1010,
+    "pfam": "PF08369",
+    "name": "",
+    "count": 77
+  },
+  {
+    "idx_orig": 584,
+    "pfam": "PF04279",
+    "name": "",
+    "count": 76
+  },
+  {
+    "idx_orig": 768,
+    "pfam": "PF10298",
+    "name": "",
+    "count": 76
+  },
+  {
+    "idx_orig": 881,
+    "pfam": "PF00986",
+    "name": "",
+    "count": 76
+  },
+  {
+    "idx_orig": 887,
+    "pfam": "PF22594",
+    "name": "",
+    "count": 76
+  },
+  {
+    "idx_orig": 935,
+    "pfam": "PF09397",
+    "name": "",
+    "count": 76
+  },
+  {
+    "idx_orig": 861,
+    "pfam": "PF01522",
+    "name": "",
+    "count": 75
+  },
+  {
+    "idx_orig": 1024,
+    "pfam": "PF19302",
+    "name": "",
+    "count": 75
+  },
+  {
+    "idx_orig": 629,
+    "pfam": "PF00375",
+    "name": "",
+    "count": 74
+  },
+  {
+    "idx_orig": 805,
+    "pfam": "PF04545",
+    "name": "",
+    "count": 74
+  },
+  {
+    "idx_orig": 836,
+    "pfam": "PF00903",
+    "name": "",
+    "count": 74
+  },
+  {
+    "idx_orig": 948,
+    "pfam": "PF00669",
+    "name": "",
+    "count": 74
+  },
+  {
+    "idx_orig": 969,
+    "pfam": "PF01098",
+    "name": "",
+    "count": 74
+  },
+  {
+    "idx_orig": 656,
+    "pfam": "PF03167",
+    "name": "",
+    "count": 73
+  },
+  {
+    "idx_orig": 664,
+    "pfam": "PF02599",
+    "name": "",
+    "count": 73
+  },
+  {
+    "idx_orig": 759,
+    "pfam": "PF00707",
+    "name": "",
+    "count": 73
+  },
+  {
+    "idx_orig": 761,
+    "pfam": "PF05198",
+    "name": "",
+    "count": 73
+  },
+  {
+    "idx_orig": 824,
+    "pfam": "PF25601",
+    "name": "",
+    "count": 73
+  },
+  {
+    "idx_orig": 886,
+    "pfam": "PF13558",
+    "name": "",
+    "count": 73
+  },
+  {
+    "idx_orig": 888,
+    "pfam": "PF00109",
+    "name": "",
+    "count": 73
+  },
+  {
+    "idx_orig": 891,
+    "pfam": "PF02801",
+    "name": "",
+    "count": 73
+  },
+  {
+    "idx_orig": 977,
+    "pfam": "PF09312",
+    "name": "",
+    "count": 73
+  },
+  {
+    "idx_orig": 908,
+    "pfam": "PF12390",
+    "name": "",
+    "count": 72
+  },
+  {
+    "idx_orig": 939,
+    "pfam": "PF13735",
+    "name": "",
+    "count": 72
+  },
+  {
+    "idx_orig": 954,
+    "pfam": "PF00700",
+    "name": "",
+    "count": 72
+  },
+  {
+    "idx_orig": 971,
+    "pfam": "PF13442",
+    "name": "",
+    "count": 72
+  },
+  {
+    "idx_orig": 725,
+    "pfam": "PF00547",
+    "name": "",
+    "count": 71
+  },
+  {
+    "idx_orig": 909,
+    "pfam": "PF00069",
+    "name": "",
+    "count": 71
+  },
+  {
+    "idx_orig": 438,
+    "pfam": "PF01521",
+    "name": "",
+    "count": 70
+  },
+  {
+    "idx_orig": 685,
+    "pfam": "PF01316",
+    "name": "",
+    "count": 70
+  },
+  {
+    "idx_orig": 687,
+    "pfam": "PF02863",
+    "name": "",
+    "count": 70
+  },
+  {
+    "idx_orig": 693,
+    "pfam": "PF00999",
+    "name": "",
+    "count": 70
+  },
+  {
+    "idx_orig": 791,
+    "pfam": "PF02629",
+    "name": "",
+    "count": 70
+  },
+  {
+    "idx_orig": 830,
+    "pfam": "PF00158",
+    "name": "",
+    "count": 70
+  },
+  {
+    "idx_orig": 681,
+    "pfam": "PF02664",
+    "name": "",
+    "count": 69
+  },
+  {
+    "idx_orig": 766,
+    "pfam": "PF00699",
+    "name": "",
+    "count": 69
+  },
+  {
+    "idx_orig": 788,
+    "pfam": "PF00480",
+    "name": "",
+    "count": 69
+  },
+  {
+    "idx_orig": 822,
+    "pfam": "PF00390",
+    "name": "",
+    "count": 69
+  },
+  {
+    "idx_orig": 823,
+    "pfam": "PF03949",
+    "name": "",
+    "count": 69
+  },
+  {
+    "idx_orig": 627,
+    "pfam": "PF03775",
+    "name": "",
+    "count": 68
+  },
+  {
+    "idx_orig": 719,
+    "pfam": "PF01430",
+    "name": "",
+    "count": 68
+  },
+  {
+    "idx_orig": 853,
+    "pfam": "PF01255",
+    "name": "",
+    "count": 68
+  },
+  {
+    "idx_orig": 858,
+    "pfam": "PF00221",
+    "name": "",
+    "count": 68
+  },
+  {
+    "idx_orig": 927,
+    "pfam": "PF00391",
+    "name": "",
+    "count": 68
+  },
+  {
+    "idx_orig": 962,
+    "pfam": "PF11858",
+    "name": "",
+    "count": 68
+  },
+  {
+    "idx_orig": 624,
+    "pfam": "PF12833",
+    "name": "",
+    "count": 67
+  },
+  {
+    "idx_orig": 774,
+    "pfam": "PF03116",
+    "name": "",
+    "count": 67
+  },
+  {
+    "idx_orig": 812,
+    "pfam": "PF01116",
+    "name": "",
+    "count": 67
+  },
+  {
+    "idx_orig": 847,
+    "pfam": "PF01709",
+    "name": "",
+    "count": 67
+  },
+  {
+    "idx_orig": 851,
+    "pfam": "PF20772",
+    "name": "",
+    "count": 67
+  },
+  {
+    "idx_orig": 870,
+    "pfam": "PF03838",
+    "name": "",
+    "count": 67
+  },
+  {
+    "idx_orig": 874,
+    "pfam": "PF14697",
+    "name": "",
+    "count": 67
+  },
+  {
+    "idx_orig": 892,
+    "pfam": "PF04060",
+    "name": "",
+    "count": 67
+  },
+  {
+    "idx_orig": 893,
+    "pfam": "PF07715",
+    "name": "",
+    "count": 67
+  },
+  {
+    "idx_orig": 904,
+    "pfam": "PF01794",
+    "name": "",
+    "count": 67
+  },
+  {
+    "idx_orig": 1015,
+    "pfam": "PF20154",
+    "name": "",
+    "count": 67
+  },
+  {
+    "idx_orig": 804,
+    "pfam": "PF02492",
+    "name": "",
+    "count": 66
+  },
+  {
+    "idx_orig": 825,
+    "pfam": "PF00625",
+    "name": "",
+    "count": 66
+  },
+  {
+    "idx_orig": 907,
+    "pfam": "PF00593",
+    "name": "",
+    "count": 66
+  },
+  {
+    "idx_orig": 974,
+    "pfam": "PF02503",
+    "name": "",
+    "count": 66
+  },
+  {
+    "idx_orig": 979,
+    "pfam": "PF13089",
+    "name": "",
+    "count": 66
+  },
+  {
+    "idx_orig": 983,
+    "pfam": "PF17941",
+    "name": "",
+    "count": 66
+  },
+  {
+    "idx_orig": 1006,
+    "pfam": "PF02366",
+    "name": "",
+    "count": 66
+  },
+  {
+    "idx_orig": 1007,
+    "pfam": "PF03136",
+    "name": "",
+    "count": 66
+  },
+  {
+    "idx_orig": 735,
+    "pfam": "PF04107",
+    "name": "",
+    "count": 65
+  },
+  {
+    "idx_orig": 739,
+    "pfam": "PF01553",
+    "name": "",
+    "count": 65
+  },
+  {
+    "idx_orig": 748,
+    "pfam": "PF02091",
+    "name": "",
+    "count": 65
+  },
+  {
+    "idx_orig": 789,
+    "pfam": "PF01329",
+    "name": "",
+    "count": 65
+  },
+  {
+    "idx_orig": 832,
+    "pfam": "PF02814",
+    "name": "",
+    "count": 65
+  },
+  {
+    "idx_orig": 915,
+    "pfam": "PF10070",
+    "name": "",
+    "count": 65
+  },
+  {
+    "idx_orig": 919,
+    "pfam": "PF05336",
+    "name": "",
+    "count": 65
+  },
+  {
+    "idx_orig": 991,
+    "pfam": "PF13090",
+    "name": "",
+    "count": 65
+  },
+  {
+    "idx_orig": 1091,
+    "pfam": "PF00555",
+    "name": "",
+    "count": 65
+  },
+  {
+    "idx_orig": 1101,
+    "pfam": "PF00556",
+    "name": "",
+    "count": 65
+  },
+  {
+    "idx_orig": 736,
+    "pfam": "PF00356",
+    "name": "",
+    "count": 64
+  },
+  {
+    "idx_orig": 837,
+    "pfam": "PF05239",
+    "name": "",
+    "count": 64
+  },
+  {
+    "idx_orig": 852,
+    "pfam": "PF07831",
+    "name": "",
+    "count": 64
+  },
+  {
+    "idx_orig": 933,
+    "pfam": "PF00364",
+    "name": "",
+    "count": 64
+  },
+  {
+    "idx_orig": 943,
+    "pfam": "PF00403",
+    "name": "",
+    "count": 64
+  },
+  {
+    "idx_orig": 1070,
+    "pfam": "PF13375",
+    "name": "",
+    "count": 64
+  },
+  {
+    "idx_orig": 921,
+    "pfam": "PF04493",
+    "name": "",
+    "count": 63
+  },
+  {
+    "idx_orig": 1033,
+    "pfam": "PF00120",
+    "name": "",
+    "count": 63
+  },
+  {
+    "idx_orig": 721,
+    "pfam": "PF02811",
+    "name": "",
+    "count": 62
+  },
+  {
+    "idx_orig": 802,
+    "pfam": "PF00849",
+    "name": "",
+    "count": 62
+  },
+  {
+    "idx_orig": 877,
+    "pfam": "PF08211",
+    "name": "",
+    "count": 62
+  },
+  {
+    "idx_orig": 895,
+    "pfam": "PF21216",
+    "name": "",
+    "count": 62
+  },
+  {
+    "idx_orig": 675,
+    "pfam": "PF17209",
+    "name": "",
+    "count": 61
+  },
+  {
+    "idx_orig": 708,
+    "pfam": "PF02684",
+    "name": "",
+    "count": 61
+  },
+  {
+    "idx_orig": 770,
+    "pfam": "PF04376",
+    "name": "",
+    "count": 61
+  },
+  {
+    "idx_orig": 771,
+    "pfam": "PF04377",
+    "name": "",
+    "count": 61
+  },
+  {
+    "idx_orig": 773,
+    "pfam": "PF02107",
+    "name": "",
+    "count": 61
+  },
+  {
+    "idx_orig": 808,
+    "pfam": "PF02954",
+    "name": "",
+    "count": 61
+  },
+  {
+    "idx_orig": 964,
+    "pfam": "PF01131",
+    "name": "",
+    "count": 61
+  },
+  {
+    "idx_orig": 997,
+    "pfam": "PF01274",
+    "name": "",
+    "count": 61
+  },
+  {
+    "idx_orig": 1003,
+    "pfam": "PF20656",
+    "name": "",
+    "count": 61
+  },
+  {
+    "idx_orig": 1004,
+    "pfam": "PF20659",
+    "name": "",
+    "count": 61
+  },
+  {
+    "idx_orig": 981,
+    "pfam": "PF17125",
+    "name": "",
+    "count": 60
+  },
+  {
+    "idx_orig": 1067,
+    "pfam": "PF04209",
+    "name": "",
+    "count": 60
+  },
+  {
+    "idx_orig": 1072,
+    "pfam": "PF20510",
+    "name": "",
+    "count": 60
+  },
+  {
+    "idx_orig": 741,
+    "pfam": "PF02119",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 750,
+    "pfam": "PF08364",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 754,
+    "pfam": "PF00708",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 930,
+    "pfam": "PF09297",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 955,
+    "pfam": "PF17755",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 985,
+    "pfam": "PF00205",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 992,
+    "pfam": "PF13636",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 994,
+    "pfam": "PF21150",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 995,
+    "pfam": "PF00198",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 1021,
+    "pfam": "PF04310",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 1023,
+    "pfam": "PF16330",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 1025,
+    "pfam": "PF20658",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 1051,
+    "pfam": "PF00703",
+    "name": "",
+    "count": 59
+  },
+  {
+    "idx_orig": 737,
+    "pfam": "PF03746",
+    "name": "",
+    "count": 58
+  },
+  {
+    "idx_orig": 957,
+    "pfam": "PF17760",
+    "name": "",
+    "count": 58
+  },
+  {
+    "idx_orig": 1060,
+    "pfam": "PF02836",
+    "name": "",
+    "count": 58
+  },
+  {
+    "idx_orig": 1063,
+    "pfam": "PF10531",
+    "name": "",
+    "count": 58
+  },
+  {
+    "idx_orig": 1113,
+    "pfam": "PF00223",
+    "name": "",
+    "count": 58
+  },
+  {
+    "idx_orig": 821,
+    "pfam": "PF00311",
+    "name": "",
+    "count": 57
+  },
+  {
+    "idx_orig": 912,
+    "pfam": "PF04962",
+    "name": "",
+    "count": 57
+  },
+  {
+    "idx_orig": 918,
+    "pfam": "PF00588",
+    "name": "",
+    "count": 57
+  },
+  {
+    "idx_orig": 996,
+    "pfam": "PF01071",
+    "name": "",
+    "count": 57
+  },
+  {
+    "idx_orig": 1012,
+    "pfam": "PF00174",
+    "name": "",
+    "count": 57
+  },
+  {
+    "idx_orig": 1066,
+    "pfam": "PF02837",
+    "name": "",
+    "count": 57
+  },
+  {
+    "idx_orig": 1229,
+    "pfam": "PF04227",
+    "name": "",
+    "count": 57
+  },
+  {
+    "idx_orig": 806,
+    "pfam": "PF06039",
+    "name": "",
+    "count": 56
+  },
+  {
+    "idx_orig": 807,
+    "pfam": "PF02649",
+    "name": "",
+    "count": 56
+  },
+  {
+    "idx_orig": 875,
+    "pfam": "PF05194",
+    "name": "",
+    "count": 56
+  },
+  {
+    "idx_orig": 932,
+    "pfam": "PF12368",
+    "name": "",
+    "count": 56
+  },
+  {
+    "idx_orig": 1050,
+    "pfam": "PF00425",
+    "name": "",
+    "count": 56
+  },
+  {
+    "idx_orig": 1085,
+    "pfam": "PF03301",
+    "name": "",
+    "count": 56
+  },
+  {
+    "idx_orig": 902,
+    "pfam": "PF00367",
+    "name": "",
+    "count": 55
+  },
+  {
+    "idx_orig": 931,
+    "pfam": "PF10415",
+    "name": "",
+    "count": 55
+  },
+  {
+    "idx_orig": 1001,
+    "pfam": "PF03232",
+    "name": "",
+    "count": 55
+  },
+  {
+    "idx_orig": 1011,
+    "pfam": "PF12072",
+    "name": "",
+    "count": 55
+  },
+  {
+    "idx_orig": 1020,
+    "pfam": "PF03799",
+    "name": "",
+    "count": 55
+  },
+  {
+    "idx_orig": 1155,
+    "pfam": "PF00353",
+    "name": "",
+    "count": 55
+  },
+  {
+    "idx_orig": 1199,
+    "pfam": "PF00145",
+    "name": "",
+    "count": 55
+  },
+  {
+    "idx_orig": 798,
+    "pfam": "PF13377",
+    "name": "",
+    "count": 54
+  },
+  {
+    "idx_orig": 841,
+    "pfam": "PF16658",
+    "name": "",
+    "count": 54
+  },
+  {
+    "idx_orig": 857,
+    "pfam": "PF27434",
+    "name": "",
+    "count": 54
+  },
+  {
+    "idx_orig": 859,
+    "pfam": "PF00781",
+    "name": "",
+    "count": 54
+  },
+  {
+    "idx_orig": 897,
+    "pfam": "PF01476",
+    "name": "",
+    "count": 54
+  },
+  {
+    "idx_orig": 911,
+    "pfam": "PF02616",
+    "name": "",
+    "count": 54
+  },
+  {
+    "idx_orig": 949,
+    "pfam": "PF00676",
+    "name": "",
+    "count": 54
+  },
+  {
+    "idx_orig": 963,
+    "pfam": "PF13365",
+    "name": "",
+    "count": 54
+  },
+  {
+    "idx_orig": 1077,
+    "pfam": "PF02457",
+    "name": "",
+    "count": 54
+  },
+  {
+    "idx_orig": 1081,
+    "pfam": "PF00283",
+    "name": "",
+    "count": 54
+  },
+  {
+    "idx_orig": 1102,
+    "pfam": "PF00821",
+    "name": "",
+    "count": 54
+  },
+  {
+    "idx_orig": 1110,
+    "pfam": "PF17297",
+    "name": "",
+    "count": 54
+  },
+  {
+    "idx_orig": 618,
+    "pfam": "PF02080",
+    "name": "",
+    "count": 53
+  },
+  {
+    "idx_orig": 659,
+    "pfam": "PF03776",
+    "name": "",
+    "count": 53
+  },
+  {
+    "idx_orig": 817,
+    "pfam": "PF08003",
+    "name": "",
+    "count": 53
+  },
+  {
+    "idx_orig": 973,
+    "pfam": "PF01613",
+    "name": "",
+    "count": 53
+  },
+  {
+    "idx_orig": 1044,
+    "pfam": "PF08478",
+    "name": "",
+    "count": 53
+  },
+  {
+    "idx_orig": 1141,
+    "pfam": "PF11798",
+    "name": "",
+    "count": 53
+  },
+  {
+    "idx_orig": 1154,
+    "pfam": "PF00082",
+    "name": "",
+    "count": 53
+  },
+  {
+    "idx_orig": 1248,
+    "pfam": "PF00150",
+    "name": "",
+    "count": 53
+  },
+  {
+    "idx_orig": 698,
+    "pfam": "PF02617",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 856,
+    "pfam": "PF09157",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 868,
+    "pfam": "PF19279",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 952,
+    "pfam": "PF04539",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 982,
+    "pfam": "PF17810",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 1038,
+    "pfam": "PF02843",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 1039,
+    "pfam": "PF02844",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 1105,
+    "pfam": "PF01593",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 1119,
+    "pfam": "PF03951",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 1123,
+    "pfam": "PF22615",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 1142,
+    "pfam": "PF16450",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 1144,
+    "pfam": "PF17758",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 1255,
+    "pfam": "PF17997",
+    "name": "",
+    "count": 52
+  },
+  {
+    "idx_orig": 827,
+    "pfam": "PF00210",
+    "name": "",
+    "count": 51
+  },
+  {
+    "idx_orig": 913,
+    "pfam": "PF06971",
+    "name": "",
+    "count": 51
+  },
+  {
+    "idx_orig": 924,
+    "pfam": "PF09290",
+    "name": "",
+    "count": 51
+  },
+  {
+    "idx_orig": 937,
+    "pfam": "PF27526",
+    "name": "",
+    "count": 51
+  },
+  {
+    "idx_orig": 993,
+    "pfam": "PF17944",
+    "name": "",
+    "count": 51
+  },
+  {
+    "idx_orig": 1073,
+    "pfam": "PF02623",
+    "name": "",
+    "count": 51
+  },
+  {
+    "idx_orig": 1086,
+    "pfam": "PF03797",
+    "name": "",
+    "count": 51
+  },
+  {
+    "idx_orig": 1150,
+    "pfam": "PF07017",
+    "name": "",
+    "count": 51
+  },
+  {
+    "idx_orig": 1271,
+    "pfam": "PF27467",
+    "name": "",
+    "count": 51
+  },
+  {
+    "idx_orig": 1022,
+    "pfam": "PF08534",
+    "name": "",
+    "count": 50
+  },
+  {
+    "idx_orig": 1136,
+    "pfam": "PF00115",
+    "name": "",
+    "count": 50
+  },
+  {
+    "idx_orig": 1225,
+    "pfam": "PF00033",
+    "name": "",
+    "count": 50
+  },
+  {
+    "idx_orig": 1253,
+    "pfam": "PF04199",
+    "name": "",
+    "count": 50
+  },
+  {
+    "idx_orig": 1140,
+    "pfam": "PF10635",
+    "name": "",
+    "count": 49
+  },
+  {
+    "idx_orig": 1188,
+    "pfam": "PF04715",
+    "name": "",
+    "count": 49
+  },
+  {
+    "idx_orig": 922,
+    "pfam": "PF04996",
+    "name": "",
+    "count": 48
+  },
+  {
+    "idx_orig": 940,
+    "pfam": "PF02502",
+    "name": "",
+    "count": 48
+  },
+  {
+    "idx_orig": 1068,
+    "pfam": "PF05985",
+    "name": "",
+    "count": 48
+  },
+  {
+    "idx_orig": 1082,
+    "pfam": "PF00668",
+    "name": "",
+    "count": 48
+  },
+  {
+    "idx_orig": 1122,
+    "pfam": "PF20741",
+    "name": "",
+    "count": 48
+  },
+  {
+    "idx_orig": 1172,
+    "pfam": "PF02129",
+    "name": "",
+    "count": 48
+  },
+  {
+    "idx_orig": 1187,
+    "pfam": "PF02310",
+    "name": "",
+    "count": 48
+  },
+  {
+    "idx_orig": 740,
+    "pfam": "PF04445",
+    "name": "",
+    "count": 47
+  },
+  {
+    "idx_orig": 959,
+    "pfam": "PF02264",
+    "name": "",
+    "count": 47
+  },
+  {
+    "idx_orig": 988,
+    "pfam": "PF02302",
+    "name": "",
+    "count": 47
+  },
+  {
+    "idx_orig": 1017,
+    "pfam": "PF00358",
+    "name": "",
+    "count": 47
+  },
+  {
+    "idx_orig": 1041,
+    "pfam": "PF04794",
+    "name": "",
+    "count": 47
+  }
+]
